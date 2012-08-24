@@ -13,20 +13,17 @@ def parse(fpath)
     # Rules are tab-separated in the following format:
     # <from>\t<to>\t<type>\t<reason_index>
     else
-      from, to, type, reasons_index = parts[0], parts[1], parts[2].to_i, parts[3].to_i
-      rules_hash[from.size] ||= {:size => from.size, :rules => []}
-      rules_hash[from.size][:rules] << {
+      from = parts.first
+      rules_hash[from.size] ||= []
+      rules_hash[from.size] << {
         :from => from,
-        :to => to,
-        :type => type,
-        :reason_id => reasons_index
+        :to => parts[1],
+        :reason_id => parts[3].to_i
       }
     end
   end
 
-  # Sort <from> in descending order by size, since we check <from> from largest to smallest
-  rules = rules_hash.values.sort{|x, y| y[:size] <=> x[:size]}
-  {:reasons => reasons, :rules => rules}
+  {:reasons => reasons, :rules => rules_hash}
 end
 
 root = File.expand_path(File.dirname(__FILE__))

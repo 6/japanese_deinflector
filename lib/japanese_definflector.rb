@@ -5,19 +5,21 @@ class JapaneseDeinflector
   def initialize
     File.open(File.join(File.expand_path(File.dirname(__FILE__)), 'data/deinflect.json')) do |f|
       rules_and_reasons = JSON.parse(f.read, :symbolize_names => true)
-      @rules = rules_and_reasons[:rules]
       @reasons = rules_and_reasons[:reasons]
+      # Convert hash keys to integers
+      @rules = {}
+      # Convert hash keys from something like :"9" -> 9
+      rules_and_reasons[:rules].each do |size, rules|
+        @rules[size.to_s.to_i] = rules
+      end
     end
   end
 
   def deinflect(word)
     possibilities = []
-
-    @rules.each do |rules_of_given_size|
-      size = rules_of_given_size[:size]
-      next  unless size <= word.size
+    rules_less_than_size(word.size).each do |size, rules|
       ending = word[-size..-1]
-      rules_of_given_size[:rules].each do |rule|
+      rules.each do |rule|
         next  unless ending == rule[:from]
         new_word = "#{word[0..-size-1]}#{rule[:to]}"
         next  if new_word.empty? || possibilities.include?(new_word)
@@ -28,5 +30,11 @@ class JapaneseDeinflector
       end
     end
     possibilities
+  end
+
+  private
+
+  def rules_less_than_size(max_size)
+    @rules.clone.keep_if{|size, rules| size < max_size}
   end
 end
