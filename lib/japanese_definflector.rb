@@ -22,7 +22,7 @@ class JapaneseDeinflector
       rules.each do |rule|
         next  unless ending == rule[:from]
         new_word = "#{word[0..-size-1]}#{rule[:to]}"
-        next  if new_word.empty? || possibilities.include?(new_word)
+        next  if possibilities.include?(new_word)
         # Weight is between 0 and 1, 1 being a higher chance of actual deinflection
         weight = (Float(size) / word.size).round(3)
         reason = @reasons[rule[:reason_id]]
