@@ -37,6 +37,6 @@ class JapaneseDeinflector
   private
 
   def rules_less_than_size(max_size)
-    @rules.clone.keep_if{|size, rules| size < max_size}
+    @rules.clone.delete_if{|size, rules| size >= max_size}
   end
 end
