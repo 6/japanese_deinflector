@@ -15,6 +15,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.homepage = 'http://github.com/6/japanese_deinflector'
 
+  s.add_development_dependency "json"
   s.add_development_dependency "rake"
   s.add_development_dependency "rspec"
 end

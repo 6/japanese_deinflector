@@ -1,4 +1,5 @@
 #encoding: utf-8
+require 'rubygems'
 require 'json'
 require "japanese_deinflector/version"
 
@@ -27,7 +28,7 @@ class JapaneseDeinflector
         # Weight is between 0 and 1, 1 being a higher chance of actual deinflection
         weight = (Float(size) / word.size).round(3)
         reason = @reasons[rule[:reason_id]]
-        possibilities << {weight: weight, word: deinflected_word, reason: reason}
+        possibilities << {:weight => weight, :word => deinflected_word, :reason => reason}
       end
     end
     possibilities
@@ -36,6 +37,6 @@ class JapaneseDeinflector
   private
 
   def rules_less_than_size(max_size)
-    @rules.clone.keep_if{|size, rules| size < max_size}
+    @rules.clone.delete_if{|size, rules| size >= max_size}
   end
 end
