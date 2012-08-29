@@ -27,7 +27,7 @@ class JapaneseDeinflector
         # Weight is between 0 and 1, 1 being a higher chance of actual deinflection
         weight = (Float(size) / word.size).round(3)
         reason = @reasons[rule[:reason_id]]
-        possibilities << {weight: weight, word: deinflected_word, reason: reason}
+        possibilities << {:weight => weight, :word => deinflected_word, :reason => reason}
       end
     end
     possibilities
