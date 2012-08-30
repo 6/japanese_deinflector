@@ -67,11 +67,13 @@ describe JapaneseDeinflector do
   it "deinflects plain presumptive verbs" do
     subject.deinflect("見よう").first[:word].should == "見る"
     subject.deinflect("歌おう").first[:word].should == "歌う"
+    subject.deinflect("走ろう").first[:word].should == "走る"
   end
 
   it "deinflects polite presumptive verbs" do
     subject.deinflect("見ましょう").first[:word].should == "見る"
     subject.deinflect("歌いましょう").first[:word].should == "歌う"
+    subject.deinflect("走りましょう").first[:word].should == "走る"
   end
 
   it "deinflects plain positive imperative verbs" do
