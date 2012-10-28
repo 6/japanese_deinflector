@@ -5,9 +5,11 @@ describe JapaneseDeinflector do
   subject{ JapaneseDeinflector.new }
 
   it "deinflects plain positive verbs" do
-    # progressive tense
-    #subject.deinflect("見ている").first[:word].should == "見る"
-    #subject.deinflect("歌っている").first[:word].should == "歌う"
+    pending "unimplemented" do
+      # progressive tense
+      subject.deinflect("見ている").first[:word].should == "見る"
+      subject.deinflect("歌っている").first[:word].should == "歌う"
+    end
 
     # past tense
     subject.deinflect("見た").first[:word].should == "見る"
@@ -19,9 +21,11 @@ describe JapaneseDeinflector do
     subject.deinflect("見ます").first[:word].should == "見る"
     subject.deinflect("歌います").first[:word].should == "歌う"
 
-    # progressive tense
-    #subject.deinflect("見ています").first[:word].should == "見る"
-    #subject.deinflect("歌っています").first[:word].should == "歌う"
+    pending "unimplemented" do
+      # progressive tense
+      subject.deinflect("見ています").first[:word].should == "見る"
+      subject.deinflect("歌っています").first[:word].should == "歌う"
+    end
 
     # past tense
     subject.deinflect("見ました").first[:word].should == "見る"
@@ -33,13 +37,14 @@ describe JapaneseDeinflector do
     subject.deinflect("見ない").first[:word].should == "見る"
     subject.deinflect("歌わない").first[:word].should == "歌う"
 
+    pending "unimplemented"
     # progressive tense
-    #subject.deinflect("見ていない").first[:word].should == "見る"
-    #subject.deinflect("歌っていない").first[:word].should == "歌う"
+    subject.deinflect("見ていない").first[:word].should == "見る"
+    subject.deinflect("歌っていない").first[:word].should == "歌う"
 
     # past tense
-    #subject.deinflect("見なかった").first[:word].should == "見る"
-    #subject.deinflect("歌わなかった").first[:word].should == "歌う"
+    subject.deinflect("見なかった").first[:word].should == "見る"
+    subject.deinflect("歌わなかった").first[:word].should == "歌う"
   end
 
   it "deinflects polite negative formal verbs" do
@@ -47,9 +52,11 @@ describe JapaneseDeinflector do
     subject.deinflect("見ません").first[:word].should == "見る"
     subject.deinflect("歌いません").first[:word].should == "歌う"
 
-    # progressive tense
-    #subject.deinflect("見ていません").first[:word].should == "見る"
-    #subject.deinflect("歌っていません").first[:word].should == "歌う"
+    pending "unimplemented" do
+      # progressive tense
+      subject.deinflect("見ていません").first[:word].should == "見る"
+      subject.deinflect("歌っていません").first[:word].should == "歌う"
+    end
 
     # past tense
     subject.deinflect("見ませんでした").first[:word].should == "見る"
@@ -93,9 +100,10 @@ describe JapaneseDeinflector do
     subject.deinflect("見れば").first[:word].should == "見る"
     subject.deinflect("歌えば").first[:word].should == "歌う"
 
+    pending "unimplemented"
     # negative
-    #subject.deinflect("見なければ").first[:word].should == "見る"
-    #subject.deinflect("歌えなければ").first[:word].should == "歌う"
+    subject.deinflect("見なければ").first[:word].should == "見る"
+    subject.deinflect("歌えなければ").first[:word].should == "歌う"
   end
 
   it "deinflects plain conditional verbs" do
@@ -103,14 +111,16 @@ describe JapaneseDeinflector do
     subject.deinflect("見たら").first[:word].should == "見る"
     subject.deinflect("歌ったら").first[:word].should == "歌う"
 
+    pending "unimplemented"
     # negative
-    #subject.deinflect("見なかったら").first[:word].should == "見る"
-    #subject.deinflect("歌わなかったら").first[:word].should == "歌う"
+    subject.deinflect("見なかったら").first[:word].should == "見る"
+    subject.deinflect("歌わなかったら").first[:word].should == "歌う"
   end
 
   it "deinflects polite conditional verbs" do
+    pending "unimplemented"
     # positive
-    #subject.deinflect("見ましたら").first[:word].should == "見る"
-    #subject.deinflect("歌いましたら").first[:word].should == "歌う"
+    subject.deinflect("見ましたら").first[:word].should == "見る"
+    subject.deinflect("歌いましたら").first[:word].should == "歌う"
   end
 end
