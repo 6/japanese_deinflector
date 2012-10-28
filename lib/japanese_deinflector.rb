@@ -6,12 +6,10 @@ require "japanese_deinflector/version"
 class JapaneseDeinflector
   def initialize
     File.open(File.join(File.expand_path(File.dirname(__FILE__)), 'data/deinflect.json')) do |f|
-      rules_and_reasons = JSON.parse(f.read, :symbolize_names => true)
-      @reasons = rules_and_reasons[:reasons]
-      # Convert hash keys to integers
+      rules = JSON.parse(f.read, :symbolize_names => true)
+      # Convert hash keys to integers (from something like :"9" -> 9)
       @rules = {}
-      # Convert hash keys from something like :"9" -> 9
-      rules_and_reasons[:rules].each do |size, rules|
+      rules.each do |size, rules|
         @rules[size.to_s.to_i] = rules
       end
     end
@@ -27,8 +25,7 @@ class JapaneseDeinflector
         next  if possibilities.include?(deinflected_word)
         # Weight is between 0 and 1, 1 being a higher chance of actual deinflection
         weight = (Float(size) / word.size).round(3)
-        reason = @reasons[rule[:reason_id]]
-        possibilities << {:weight => weight, :word => deinflected_word, :reason => reason}
+        possibilities << {:weight => weight, :word => deinflected_word, :reason => rule[:reason]}
       end
     end
     possibilities

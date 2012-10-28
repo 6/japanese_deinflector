@@ -14,16 +14,16 @@ def parse(fpath)
     # <from>\t<to>\t<type>\t<reason_index>
     else
       from = parts.first
+      reason_id = parts[3].to_i
       rules_hash[from.size] ||= []
       rules_hash[from.size] << {
         :from => from,
         :to => parts[1],
-        :reason_id => parts[3].to_i
+        :reason => reasons[reason_id],
       }
     end
   end
-
-  {:reasons => reasons, :rules => rules_hash}
+  rules_hash
 end
 
 root = File.expand_path(File.dirname(__FILE__))
