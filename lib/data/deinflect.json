@@ -1,1 +1,1585 @@
-{"reasons":["polite past negative","polite negative","polite volitional","-chau","-sugiru","-nasai","polite past","-tara","-tari","causative","potential or passive","-sou","-tai","polite","past","negative","passive","-ba","volitional","potential","passive or causative","-te","-zu","imperative","masu stem","adv","noun","imperative negative"],"rules":{"9":[{"from":"くありませんでした","to":"い","reason_id":0}],"7":[{"from":"いませんでした","to":"う","reason_id":0},{"from":"きませんでした","to":"く","reason_id":0},{"from":"きませんでした","to":"くる","reason_id":0},{"from":"ぎませんでした","to":"ぐ","reason_id":0},{"from":"しませんでした","to":"す","reason_id":0},{"from":"しませんでした","to":"する","reason_id":0},{"from":"ちませんでした","to":"つ","reason_id":0},{"from":"にませんでした","to":"ぬ","reason_id":0},{"from":"びませんでした","to":"ぶ","reason_id":0},{"from":"みませんでした","to":"む","reason_id":0},{"from":"りませんでした","to":"る","reason_id":0}],"6":[{"from":"くありません","to":"い","reason_id":1},{"from":"ませんでした","to":"る","reason_id":0}],"5":[{"from":"いましょう","to":"う","reason_id":2},{"from":"きましょう","to":"く","reason_id":2},{"from":"きましょう","to":"くる","reason_id":2},{"from":"ぎましょう","to":"ぐ","reason_id":2},{"from":"しましょう","to":"す","reason_id":2},{"from":"しましょう","to":"する","reason_id":2},{"from":"ちましょう","to":"つ","reason_id":2},{"from":"にましょう","to":"ぬ","reason_id":2},{"from":"びましょう","to":"ぶ","reason_id":2},{"from":"みましょう","to":"む","reason_id":2},{"from":"りましょう","to":"る","reason_id":2}],"4":[{"from":"いじゃう","to":"ぐ","reason_id":3},{"from":"いすぎる","to":"う","reason_id":4},{"from":"いちゃう","to":"く","reason_id":3},{"from":"いなさい","to":"う","reason_id":5},{"from":"いました","to":"う","reason_id":6},{"from":"いません","to":"う","reason_id":1},{"from":"かったら","to":"い","reason_id":7},{"from":"かったり","to":"い","reason_id":8},{"from":"きすぎる","to":"く","reason_id":4},{"from":"きすぎる","to":"くる","reason_id":4},{"from":"ぎすぎる","to":"ぐ","reason_id":4},{"from":"きちゃう","to":"くる","reason_id":3},{"from":"きなさい","to":"く","reason_id":5},{"from":"きなさい","to":"くる","reason_id":5},{"from":"ぎなさい","to":"ぐ","reason_id":5},{"from":"きました","to":"く","reason_id":6},{"from":"きました","to":"くる","reason_id":6},{"from":"ぎました","to":"ぐ","reason_id":6},{"from":"きません","to":"く","reason_id":1},{"from":"きません","to":"くる","reason_id":1},{"from":"ぎません","to":"ぐ","reason_id":1},{"from":"こさせる","to":"くる","reason_id":9},{"from":"こられる","to":"くる","reason_id":10},{"from":"しすぎる","to":"す","reason_id":4},{"from":"しすぎる","to":"する","reason_id":4},{"from":"しちゃう","to":"す","reason_id":3},{"from":"しちゃう","to":"する","reason_id":3},{"from":"しなさい","to":"す","reason_id":5},{"from":"しなさい","to":"する","reason_id":5},{"from":"しました","to":"す","reason_id":6},{"from":"しました","to":"する","reason_id":6},{"from":"しません","to":"す","reason_id":1},{"from":"しません","to":"する","reason_id":1},{"from":"ちすぎる","to":"つ","reason_id":4},{"from":"ちなさい","to":"つ","reason_id":5},{"from":"ちました","to":"つ","reason_id":6},{"from":"ちません","to":"つ","reason_id":1},{"from":"っちゃう","to":"う","reason_id":3},{"from":"っちゃう","to":"く","reason_id":3},{"from":"っちゃう","to":"つ","reason_id":3},{"from":"っちゃう","to":"る","reason_id":3},{"from":"にすぎる","to":"ぬ","reason_id":4},{"from":"になさい","to":"ぬ","reason_id":5},{"from":"にました","to":"ぬ","reason_id":6},{"from":"にません","to":"ぬ","reason_id":1},{"from":"びすぎる","to":"ぶ","reason_id":4},{"from":"びなさい","to":"ぶ","reason_id":5},{"from":"びました","to":"ぶ","reason_id":6},{"from":"びません","to":"ぶ","reason_id":1},{"from":"ましょう","to":"る","reason_id":2},{"from":"みすぎる","to":"む","reason_id":4},{"from":"みなさい","to":"む","reason_id":5},{"from":"みました","to":"む","reason_id":6},{"from":"みません","to":"む","reason_id":1},{"from":"りすぎる","to":"る","reason_id":4},{"from":"りなさい","to":"る","reason_id":5},{"from":"りました","to":"る","reason_id":6},{"from":"りません","to":"る","reason_id":1},{"from":"んじゃう","to":"ぬ","reason_id":3},{"from":"んじゃう","to":"ぶ","reason_id":3},{"from":"んじゃう","to":"む","reason_id":3}],"3":[{"from":"いそう","to":"う","reason_id":11},{"from":"いたい","to":"う","reason_id":12},{"from":"いたら","to":"く","reason_id":7},{"from":"いだら","to":"ぐ","reason_id":7},{"from":"いたり","to":"く","reason_id":8},{"from":"いだり","to":"ぐ","reason_id":8},{"from":"います","to":"う","reason_id":13},{"from":"かせる","to":"く","reason_id":9},{"from":"がせる","to":"ぐ","reason_id":9},{"from":"かった","to":"い","reason_id":14},{"from":"かない","to":"く","reason_id":15},{"from":"がない","to":"ぐ","reason_id":15},{"from":"かれる","to":"く","reason_id":16},{"from":"がれる","to":"ぐ","reason_id":16},{"from":"きそう","to":"く","reason_id":11},{"from":"きそう","to":"くる","reason_id":11},{"from":"ぎそう","to":"ぐ","reason_id":11},{"from":"きたい","to":"く","reason_id":12},{"from":"きたい","to":"くる","reason_id":12},{"from":"ぎたい","to":"ぐ","reason_id":12},{"from":"きたら","to":"くる","reason_id":7},{"from":"きたり","to":"くる","reason_id":8},{"from":"きます","to":"く","reason_id":13},{"from":"きます","to":"くる","reason_id":13},{"from":"ぎます","to":"ぐ","reason_id":13},{"from":"くない","to":"い","reason_id":15},{"from":"ければ","to":"い","reason_id":17},{"from":"こない","to":"くる","reason_id":15},{"from":"こよう","to":"くる","reason_id":18},{"from":"これる","to":"くる","reason_id":19},{"from":"させる","to":"する","reason_id":9},{"from":"させる","to":"る","reason_id":9},{"from":"さない","to":"す","reason_id":15},{"from":"される","to":"す","reason_id":20},{"from":"される","to":"する","reason_id":16},{"from":"しそう","to":"す","reason_id":11},{"from":"しそう","to":"する","reason_id":11},{"from":"したい","to":"す","reason_id":12},{"from":"したい","to":"する","reason_id":12},{"from":"したら","to":"す","reason_id":7},{"from":"したら","to":"する","reason_id":7},{"from":"したり","to":"す","reason_id":8},{"from":"したり","to":"する","reason_id":8},{"from":"しない","to":"する","reason_id":15},{"from":"します","to":"す","reason_id":13},{"from":"します","to":"する","reason_id":13},{"from":"しよう","to":"する","reason_id":18},{"from":"すぎる","to":"い","reason_id":4},{"from":"すぎる","to":"る","reason_id":4},{"from":"たせる","to":"つ","reason_id":9},{"from":"たない","to":"つ","reason_id":15},{"from":"たれる","to":"つ","reason_id":16},{"from":"ちそう","to":"つ","reason_id":11},{"from":"ちたい","to":"つ","reason_id":12},{"from":"ちます","to":"つ","reason_id":13},{"from":"ちゃう","to":"る","reason_id":3},{"from":"ったら","to":"う","reason_id":7},{"from":"ったら","to":"つ","reason_id":7},{"from":"ったら","to":"る","reason_id":7},{"from":"ったり","to":"う","reason_id":8},{"from":"ったり","to":"つ","reason_id":8},{"from":"ったり","to":"る","reason_id":8},{"from":"なさい","to":"る","reason_id":5},{"from":"なせる","to":"ぬ","reason_id":9},{"from":"なない","to":"ぬ","reason_id":15},{"from":"なれる","to":"ぬ","reason_id":16},{"from":"にそう","to":"ぬ","reason_id":11},{"from":"にたい","to":"ぬ","reason_id":12},{"from":"にます","to":"ぬ","reason_id":13},{"from":"ばせる","to":"ぶ","reason_id":9},{"from":"ばない","to":"ぶ","reason_id":15},{"from":"ばれる","to":"ぶ","reason_id":16},{"from":"びそう","to":"ぶ","reason_id":11},{"from":"びたい","to":"ぶ","reason_id":12},{"from":"びます","to":"ぶ","reason_id":13},{"from":"ました","to":"る","reason_id":6},{"from":"ませる","to":"む","reason_id":9},{"from":"ません","to":"る","reason_id":1},{"from":"まない","to":"む","reason_id":15},{"from":"まれる","to":"む","reason_id":16},{"from":"みそう","to":"む","reason_id":11},{"from":"みたい","to":"む","reason_id":12},{"from":"みます","to":"む","reason_id":13},{"from":"らせる","to":"る","reason_id":9},{"from":"らない","to":"る","reason_id":15},{"from":"られる","to":"る","reason_id":10},{"from":"りそう","to":"る","reason_id":11},{"from":"りたい","to":"る","reason_id":12},{"from":"ります","to":"る","reason_id":13},{"from":"わせる","to":"う","reason_id":9},{"from":"わない","to":"う","reason_id":15},{"from":"われる","to":"う","reason_id":16},{"from":"んだら","to":"ぬ","reason_id":7},{"from":"んだら","to":"ぶ","reason_id":7},{"from":"んだら","to":"む","reason_id":7},{"from":"んだり","to":"ぬ","reason_id":8},{"from":"んだり","to":"ぶ","reason_id":8},{"from":"んだり","to":"む","reason_id":8}],"2":[{"from":"いた","to":"く","reason_id":14},{"from":"いだ","to":"ぐ","reason_id":14},{"from":"いて","to":"く","reason_id":21},{"from":"いで","to":"ぐ","reason_id":21},{"from":"えば","to":"う","reason_id":17},{"from":"える","to":"う","reason_id":19},{"from":"おう","to":"う","reason_id":18},{"from":"かず","to":"く","reason_id":22},{"from":"がず","to":"ぐ","reason_id":22},{"from":"きた","to":"くる","reason_id":14},{"from":"きて","to":"くる","reason_id":21},{"from":"くて","to":"い","reason_id":21},{"from":"けば","to":"く","reason_id":17},{"from":"げば","to":"ぐ","reason_id":17},{"from":"ける","to":"く","reason_id":19},{"from":"げる","to":"ぐ","reason_id":19},{"from":"こい","to":"くる","reason_id":23},{"from":"こう","to":"く","reason_id":18},{"from":"ごう","to":"ぐ","reason_id":18},{"from":"こず","to":"くる","reason_id":22},{"from":"さず","to":"す","reason_id":22},{"from":"した","to":"す","reason_id":14},{"from":"した","to":"する","reason_id":14},{"from":"して","to":"す","reason_id":21},{"from":"して","to":"する","reason_id":21},{"from":"しろ","to":"する","reason_id":23},{"from":"せず","to":"する","reason_id":22},{"from":"せば","to":"す","reason_id":17},{"from":"せよ","to":"する","reason_id":23},{"from":"せる","to":"す","reason_id":19},{"from":"そう","to":"い","reason_id":11},{"from":"そう","to":"す","reason_id":18},{"from":"そう","to":"る","reason_id":11},{"from":"たい","to":"る","reason_id":12},{"from":"たず","to":"つ","reason_id":22},{"from":"たら","to":"る","reason_id":7},{"from":"たり","to":"る","reason_id":8},{"from":"った","to":"う","reason_id":14},{"from":"った","to":"く","reason_id":14},{"from":"った","to":"つ","reason_id":14},{"from":"った","to":"る","reason_id":14},{"from":"って","to":"う","reason_id":21},{"from":"って","to":"く","reason_id":21},{"from":"って","to":"つ","reason_id":21},{"from":"って","to":"る","reason_id":21},{"from":"てば","to":"つ","reason_id":17},{"from":"てる","to":"つ","reason_id":19},{"from":"とう","to":"つ","reason_id":18},{"from":"ない","to":"る","reason_id":15},{"from":"なず","to":"ぬ","reason_id":22},{"from":"ねば","to":"ぬ","reason_id":17},{"from":"ねる","to":"ぬ","reason_id":19},{"from":"のう","to":"ぬ","reason_id":18},{"from":"ばず","to":"ぶ","reason_id":22},{"from":"べば","to":"ぶ","reason_id":17},{"from":"べる","to":"ぶ","reason_id":19},{"from":"ぼう","to":"ぶ","reason_id":18},{"from":"ます","to":"る","reason_id":13},{"from":"まず","to":"む","reason_id":22},{"from":"めば","to":"む","reason_id":17},{"from":"める","to":"む","reason_id":19},{"from":"もう","to":"む","reason_id":18},{"from":"よう","to":"る","reason_id":18},{"from":"らず","to":"る","reason_id":22},{"from":"れば","to":"る","reason_id":17},{"from":"れる","to":"る","reason_id":19},{"from":"ろう","to":"る","reason_id":18},{"from":"わず","to":"う","reason_id":22},{"from":"んだ","to":"ぬ","reason_id":14},{"from":"んだ","to":"ぶ","reason_id":14},{"from":"んだ","to":"む","reason_id":14},{"from":"んで","to":"ぬ","reason_id":21},{"from":"んで","to":"ぶ","reason_id":21},{"from":"んで","to":"む","reason_id":21}],"1":[{"from":"い","to":"いる","reason_id":24},{"from":"い","to":"う","reason_id":24},{"from":"い","to":"る","reason_id":23},{"from":"え","to":"う","reason_id":23},{"from":"え","to":"える","reason_id":24},{"from":"き","to":"きる","reason_id":24},{"from":"き","to":"く","reason_id":24},{"from":"ぎ","to":"ぎる","reason_id":24},{"from":"ぎ","to":"ぐ","reason_id":24},{"from":"く","to":"い","reason_id":25},{"from":"け","to":"く","reason_id":23},{"from":"け","to":"ける","reason_id":24},{"from":"げ","to":"ぐ","reason_id":23},{"from":"げ","to":"げる","reason_id":24},{"from":"さ","to":"い","reason_id":26},{"from":"し","to":"す","reason_id":24},{"from":"じ","to":"じる","reason_id":24},{"from":"ず","to":"る","reason_id":22},{"from":"せ","to":"す","reason_id":23},{"from":"せ","to":"せる","reason_id":24},{"from":"ぜ","to":"ぜる","reason_id":24},{"from":"た","to":"る","reason_id":14},{"from":"ち","to":"ちる","reason_id":24},{"from":"ち","to":"つ","reason_id":24},{"from":"て","to":"つ","reason_id":23},{"from":"て","to":"てる","reason_id":24},{"from":"て","to":"る","reason_id":21},{"from":"で","to":"でる","reason_id":24},{"from":"な","to":"","reason_id":27},{"from":"に","to":"にる","reason_id":24},{"from":"に","to":"ぬ","reason_id":24},{"from":"ね","to":"ぬ","reason_id":23},{"from":"ね","to":"ねる","reason_id":24},{"from":"ひ","to":"ひる","reason_id":24},{"from":"び","to":"びる","reason_id":24},{"from":"び","to":"ぶ","reason_id":24},{"from":"へ","to":"へる","reason_id":24},{"from":"べ","to":"ぶ","reason_id":23},{"from":"べ","to":"べる","reason_id":24},{"from":"み","to":"みる","reason_id":24},{"from":"み","to":"む","reason_id":24},{"from":"め","to":"む","reason_id":23},{"from":"め","to":"める","reason_id":24},{"from":"よ","to":"る","reason_id":23},{"from":"り","to":"りる","reason_id":24},{"from":"り","to":"る","reason_id":24},{"from":"れ","to":"る","reason_id":23},{"from":"れ","to":"れる","reason_id":24},{"from":"ろ","to":"る","reason_id":23}]}}
+{
+  "reasons": [
+    "polite past negative",
+    "polite negative",
+    "polite volitional",
+    "-chau",
+    "-sugiru",
+    "-nasai",
+    "polite past",
+    "-tara",
+    "-tari",
+    "causative",
+    "potential or passive",
+    "-sou",
+    "-tai",
+    "polite",
+    "past",
+    "negative",
+    "passive",
+    "-ba",
+    "volitional",
+    "potential",
+    "passive or causative",
+    "-te",
+    "-zu",
+    "imperative",
+    "masu stem",
+    "adv",
+    "noun",
+    "imperative negative"
+  ],
+  "rules": {
+    "9": [
+      {
+        "from": "くありませんでした",
+        "to": "い",
+        "reason_id": 0
+      }
+    ],
+    "7": [
+      {
+        "from": "いませんでした",
+        "to": "う",
+        "reason_id": 0
+      },
+      {
+        "from": "きませんでした",
+        "to": "く",
+        "reason_id": 0
+      },
+      {
+        "from": "きませんでした",
+        "to": "くる",
+        "reason_id": 0
+      },
+      {
+        "from": "ぎませんでした",
+        "to": "ぐ",
+        "reason_id": 0
+      },
+      {
+        "from": "しませんでした",
+        "to": "す",
+        "reason_id": 0
+      },
+      {
+        "from": "しませんでした",
+        "to": "する",
+        "reason_id": 0
+      },
+      {
+        "from": "ちませんでした",
+        "to": "つ",
+        "reason_id": 0
+      },
+      {
+        "from": "にませんでした",
+        "to": "ぬ",
+        "reason_id": 0
+      },
+      {
+        "from": "びませんでした",
+        "to": "ぶ",
+        "reason_id": 0
+      },
+      {
+        "from": "みませんでした",
+        "to": "む",
+        "reason_id": 0
+      },
+      {
+        "from": "りませんでした",
+        "to": "る",
+        "reason_id": 0
+      }
+    ],
+    "6": [
+      {
+        "from": "くありません",
+        "to": "い",
+        "reason_id": 1
+      },
+      {
+        "from": "ませんでした",
+        "to": "る",
+        "reason_id": 0
+      }
+    ],
+    "5": [
+      {
+        "from": "いましょう",
+        "to": "う",
+        "reason_id": 2
+      },
+      {
+        "from": "きましょう",
+        "to": "く",
+        "reason_id": 2
+      },
+      {
+        "from": "きましょう",
+        "to": "くる",
+        "reason_id": 2
+      },
+      {
+        "from": "ぎましょう",
+        "to": "ぐ",
+        "reason_id": 2
+      },
+      {
+        "from": "しましょう",
+        "to": "す",
+        "reason_id": 2
+      },
+      {
+        "from": "しましょう",
+        "to": "する",
+        "reason_id": 2
+      },
+      {
+        "from": "ちましょう",
+        "to": "つ",
+        "reason_id": 2
+      },
+      {
+        "from": "にましょう",
+        "to": "ぬ",
+        "reason_id": 2
+      },
+      {
+        "from": "びましょう",
+        "to": "ぶ",
+        "reason_id": 2
+      },
+      {
+        "from": "みましょう",
+        "to": "む",
+        "reason_id": 2
+      },
+      {
+        "from": "りましょう",
+        "to": "る",
+        "reason_id": 2
+      }
+    ],
+    "4": [
+      {
+        "from": "いじゃう",
+        "to": "ぐ",
+        "reason_id": 3
+      },
+      {
+        "from": "いすぎる",
+        "to": "う",
+        "reason_id": 4
+      },
+      {
+        "from": "いちゃう",
+        "to": "く",
+        "reason_id": 3
+      },
+      {
+        "from": "いなさい",
+        "to": "う",
+        "reason_id": 5
+      },
+      {
+        "from": "いました",
+        "to": "う",
+        "reason_id": 6
+      },
+      {
+        "from": "いません",
+        "to": "う",
+        "reason_id": 1
+      },
+      {
+        "from": "かったら",
+        "to": "い",
+        "reason_id": 7
+      },
+      {
+        "from": "かったり",
+        "to": "い",
+        "reason_id": 8
+      },
+      {
+        "from": "きすぎる",
+        "to": "く",
+        "reason_id": 4
+      },
+      {
+        "from": "きすぎる",
+        "to": "くる",
+        "reason_id": 4
+      },
+      {
+        "from": "ぎすぎる",
+        "to": "ぐ",
+        "reason_id": 4
+      },
+      {
+        "from": "きちゃう",
+        "to": "くる",
+        "reason_id": 3
+      },
+      {
+        "from": "きなさい",
+        "to": "く",
+        "reason_id": 5
+      },
+      {
+        "from": "きなさい",
+        "to": "くる",
+        "reason_id": 5
+      },
+      {
+        "from": "ぎなさい",
+        "to": "ぐ",
+        "reason_id": 5
+      },
+      {
+        "from": "きました",
+        "to": "く",
+        "reason_id": 6
+      },
+      {
+        "from": "きました",
+        "to": "くる",
+        "reason_id": 6
+      },
+      {
+        "from": "ぎました",
+        "to": "ぐ",
+        "reason_id": 6
+      },
+      {
+        "from": "きません",
+        "to": "く",
+        "reason_id": 1
+      },
+      {
+        "from": "きません",
+        "to": "くる",
+        "reason_id": 1
+      },
+      {
+        "from": "ぎません",
+        "to": "ぐ",
+        "reason_id": 1
+      },
+      {
+        "from": "こさせる",
+        "to": "くる",
+        "reason_id": 9
+      },
+      {
+        "from": "こられる",
+        "to": "くる",
+        "reason_id": 10
+      },
+      {
+        "from": "しすぎる",
+        "to": "す",
+        "reason_id": 4
+      },
+      {
+        "from": "しすぎる",
+        "to": "する",
+        "reason_id": 4
+      },
+      {
+        "from": "しちゃう",
+        "to": "す",
+        "reason_id": 3
+      },
+      {
+        "from": "しちゃう",
+        "to": "する",
+        "reason_id": 3
+      },
+      {
+        "from": "しなさい",
+        "to": "す",
+        "reason_id": 5
+      },
+      {
+        "from": "しなさい",
+        "to": "する",
+        "reason_id": 5
+      },
+      {
+        "from": "しました",
+        "to": "す",
+        "reason_id": 6
+      },
+      {
+        "from": "しました",
+        "to": "する",
+        "reason_id": 6
+      },
+      {
+        "from": "しません",
+        "to": "す",
+        "reason_id": 1
+      },
+      {
+        "from": "しません",
+        "to": "する",
+        "reason_id": 1
+      },
+      {
+        "from": "ちすぎる",
+        "to": "つ",
+        "reason_id": 4
+      },
+      {
+        "from": "ちなさい",
+        "to": "つ",
+        "reason_id": 5
+      },
+      {
+        "from": "ちました",
+        "to": "つ",
+        "reason_id": 6
+      },
+      {
+        "from": "ちません",
+        "to": "つ",
+        "reason_id": 1
+      },
+      {
+        "from": "っちゃう",
+        "to": "う",
+        "reason_id": 3
+      },
+      {
+        "from": "っちゃう",
+        "to": "く",
+        "reason_id": 3
+      },
+      {
+        "from": "っちゃう",
+        "to": "つ",
+        "reason_id": 3
+      },
+      {
+        "from": "っちゃう",
+        "to": "る",
+        "reason_id": 3
+      },
+      {
+        "from": "にすぎる",
+        "to": "ぬ",
+        "reason_id": 4
+      },
+      {
+        "from": "になさい",
+        "to": "ぬ",
+        "reason_id": 5
+      },
+      {
+        "from": "にました",
+        "to": "ぬ",
+        "reason_id": 6
+      },
+      {
+        "from": "にません",
+        "to": "ぬ",
+        "reason_id": 1
+      },
+      {
+        "from": "びすぎる",
+        "to": "ぶ",
+        "reason_id": 4
+      },
+      {
+        "from": "びなさい",
+        "to": "ぶ",
+        "reason_id": 5
+      },
+      {
+        "from": "びました",
+        "to": "ぶ",
+        "reason_id": 6
+      },
+      {
+        "from": "びません",
+        "to": "ぶ",
+        "reason_id": 1
+      },
+      {
+        "from": "ましょう",
+        "to": "る",
+        "reason_id": 2
+      },
+      {
+        "from": "みすぎる",
+        "to": "む",
+        "reason_id": 4
+      },
+      {
+        "from": "みなさい",
+        "to": "む",
+        "reason_id": 5
+      },
+      {
+        "from": "みました",
+        "to": "む",
+        "reason_id": 6
+      },
+      {
+        "from": "みません",
+        "to": "む",
+        "reason_id": 1
+      },
+      {
+        "from": "りすぎる",
+        "to": "る",
+        "reason_id": 4
+      },
+      {
+        "from": "りなさい",
+        "to": "る",
+        "reason_id": 5
+      },
+      {
+        "from": "りました",
+        "to": "る",
+        "reason_id": 6
+      },
+      {
+        "from": "りません",
+        "to": "る",
+        "reason_id": 1
+      },
+      {
+        "from": "んじゃう",
+        "to": "ぬ",
+        "reason_id": 3
+      },
+      {
+        "from": "んじゃう",
+        "to": "ぶ",
+        "reason_id": 3
+      },
+      {
+        "from": "んじゃう",
+        "to": "む",
+        "reason_id": 3
+      }
+    ],
+    "3": [
+      {
+        "from": "いそう",
+        "to": "う",
+        "reason_id": 11
+      },
+      {
+        "from": "いたい",
+        "to": "う",
+        "reason_id": 12
+      },
+      {
+        "from": "いたら",
+        "to": "く",
+        "reason_id": 7
+      },
+      {
+        "from": "いだら",
+        "to": "ぐ",
+        "reason_id": 7
+      },
+      {
+        "from": "いたり",
+        "to": "く",
+        "reason_id": 8
+      },
+      {
+        "from": "いだり",
+        "to": "ぐ",
+        "reason_id": 8
+      },
+      {
+        "from": "います",
+        "to": "う",
+        "reason_id": 13
+      },
+      {
+        "from": "かせる",
+        "to": "く",
+        "reason_id": 9
+      },
+      {
+        "from": "がせる",
+        "to": "ぐ",
+        "reason_id": 9
+      },
+      {
+        "from": "かった",
+        "to": "い",
+        "reason_id": 14
+      },
+      {
+        "from": "かない",
+        "to": "く",
+        "reason_id": 15
+      },
+      {
+        "from": "がない",
+        "to": "ぐ",
+        "reason_id": 15
+      },
+      {
+        "from": "かれる",
+        "to": "く",
+        "reason_id": 16
+      },
+      {
+        "from": "がれる",
+        "to": "ぐ",
+        "reason_id": 16
+      },
+      {
+        "from": "きそう",
+        "to": "く",
+        "reason_id": 11
+      },
+      {
+        "from": "きそう",
+        "to": "くる",
+        "reason_id": 11
+      },
+      {
+        "from": "ぎそう",
+        "to": "ぐ",
+        "reason_id": 11
+      },
+      {
+        "from": "きたい",
+        "to": "く",
+        "reason_id": 12
+      },
+      {
+        "from": "きたい",
+        "to": "くる",
+        "reason_id": 12
+      },
+      {
+        "from": "ぎたい",
+        "to": "ぐ",
+        "reason_id": 12
+      },
+      {
+        "from": "きたら",
+        "to": "くる",
+        "reason_id": 7
+      },
+      {
+        "from": "きたり",
+        "to": "くる",
+        "reason_id": 8
+      },
+      {
+        "from": "きます",
+        "to": "く",
+        "reason_id": 13
+      },
+      {
+        "from": "きます",
+        "to": "くる",
+        "reason_id": 13
+      },
+      {
+        "from": "ぎます",
+        "to": "ぐ",
+        "reason_id": 13
+      },
+      {
+        "from": "くない",
+        "to": "い",
+        "reason_id": 15
+      },
+      {
+        "from": "ければ",
+        "to": "い",
+        "reason_id": 17
+      },
+      {
+        "from": "こない",
+        "to": "くる",
+        "reason_id": 15
+      },
+      {
+        "from": "こよう",
+        "to": "くる",
+        "reason_id": 18
+      },
+      {
+        "from": "これる",
+        "to": "くる",
+        "reason_id": 19
+      },
+      {
+        "from": "させる",
+        "to": "する",
+        "reason_id": 9
+      },
+      {
+        "from": "させる",
+        "to": "る",
+        "reason_id": 9
+      },
+      {
+        "from": "さない",
+        "to": "す",
+        "reason_id": 15
+      },
+      {
+        "from": "される",
+        "to": "す",
+        "reason_id": 20
+      },
+      {
+        "from": "される",
+        "to": "する",
+        "reason_id": 16
+      },
+      {
+        "from": "しそう",
+        "to": "す",
+        "reason_id": 11
+      },
+      {
+        "from": "しそう",
+        "to": "する",
+        "reason_id": 11
+      },
+      {
+        "from": "したい",
+        "to": "す",
+        "reason_id": 12
+      },
+      {
+        "from": "したい",
+        "to": "する",
+        "reason_id": 12
+      },
+      {
+        "from": "したら",
+        "to": "す",
+        "reason_id": 7
+      },
+      {
+        "from": "したら",
+        "to": "する",
+        "reason_id": 7
+      },
+      {
+        "from": "したり",
+        "to": "す",
+        "reason_id": 8
+      },
+      {
+        "from": "したり",
+        "to": "する",
+        "reason_id": 8
+      },
+      {
+        "from": "しない",
+        "to": "する",
+        "reason_id": 15
+      },
+      {
+        "from": "します",
+        "to": "す",
+        "reason_id": 13
+      },
+      {
+        "from": "します",
+        "to": "する",
+        "reason_id": 13
+      },
+      {
+        "from": "しよう",
+        "to": "する",
+        "reason_id": 18
+      },
+      {
+        "from": "すぎる",
+        "to": "い",
+        "reason_id": 4
+      },
+      {
+        "from": "すぎる",
+        "to": "る",
+        "reason_id": 4
+      },
+      {
+        "from": "たせる",
+        "to": "つ",
+        "reason_id": 9
+      },
+      {
+        "from": "たない",
+        "to": "つ",
+        "reason_id": 15
+      },
+      {
+        "from": "たれる",
+        "to": "つ",
+        "reason_id": 16
+      },
+      {
+        "from": "ちそう",
+        "to": "つ",
+        "reason_id": 11
+      },
+      {
+        "from": "ちたい",
+        "to": "つ",
+        "reason_id": 12
+      },
+      {
+        "from": "ちます",
+        "to": "つ",
+        "reason_id": 13
+      },
+      {
+        "from": "ちゃう",
+        "to": "る",
+        "reason_id": 3
+      },
+      {
+        "from": "ったら",
+        "to": "う",
+        "reason_id": 7
+      },
+      {
+        "from": "ったら",
+        "to": "つ",
+        "reason_id": 7
+      },
+      {
+        "from": "ったら",
+        "to": "る",
+        "reason_id": 7
+      },
+      {
+        "from": "ったり",
+        "to": "う",
+        "reason_id": 8
+      },
+      {
+        "from": "ったり",
+        "to": "つ",
+        "reason_id": 8
+      },
+      {
+        "from": "ったり",
+        "to": "る",
+        "reason_id": 8
+      },
+      {
+        "from": "なさい",
+        "to": "る",
+        "reason_id": 5
+      },
+      {
+        "from": "なせる",
+        "to": "ぬ",
+        "reason_id": 9
+      },
+      {
+        "from": "なない",
+        "to": "ぬ",
+        "reason_id": 15
+      },
+      {
+        "from": "なれる",
+        "to": "ぬ",
+        "reason_id": 16
+      },
+      {
+        "from": "にそう",
+        "to": "ぬ",
+        "reason_id": 11
+      },
+      {
+        "from": "にたい",
+        "to": "ぬ",
+        "reason_id": 12
+      },
+      {
+        "from": "にます",
+        "to": "ぬ",
+        "reason_id": 13
+      },
+      {
+        "from": "ばせる",
+        "to": "ぶ",
+        "reason_id": 9
+      },
+      {
+        "from": "ばない",
+        "to": "ぶ",
+        "reason_id": 15
+      },
+      {
+        "from": "ばれる",
+        "to": "ぶ",
+        "reason_id": 16
+      },
+      {
+        "from": "びそう",
+        "to": "ぶ",
+        "reason_id": 11
+      },
+      {
+        "from": "びたい",
+        "to": "ぶ",
+        "reason_id": 12
+      },
+      {
+        "from": "びます",
+        "to": "ぶ",
+        "reason_id": 13
+      },
+      {
+        "from": "ました",
+        "to": "る",
+        "reason_id": 6
+      },
+      {
+        "from": "ませる",
+        "to": "む",
+        "reason_id": 9
+      },
+      {
+        "from": "ません",
+        "to": "る",
+        "reason_id": 1
+      },
+      {
+        "from": "まない",
+        "to": "む",
+        "reason_id": 15
+      },
+      {
+        "from": "まれる",
+        "to": "む",
+        "reason_id": 16
+      },
+      {
+        "from": "みそう",
+        "to": "む",
+        "reason_id": 11
+      },
+      {
+        "from": "みたい",
+        "to": "む",
+        "reason_id": 12
+      },
+      {
+        "from": "みます",
+        "to": "む",
+        "reason_id": 13
+      },
+      {
+        "from": "らせる",
+        "to": "る",
+        "reason_id": 9
+      },
+      {
+        "from": "らない",
+        "to": "る",
+        "reason_id": 15
+      },
+      {
+        "from": "られる",
+        "to": "る",
+        "reason_id": 10
+      },
+      {
+        "from": "りそう",
+        "to": "る",
+        "reason_id": 11
+      },
+      {
+        "from": "りたい",
+        "to": "る",
+        "reason_id": 12
+      },
+      {
+        "from": "ります",
+        "to": "る",
+        "reason_id": 13
+      },
+      {
+        "from": "わせる",
+        "to": "う",
+        "reason_id": 9
+      },
+      {
+        "from": "わない",
+        "to": "う",
+        "reason_id": 15
+      },
+      {
+        "from": "われる",
+        "to": "う",
+        "reason_id": 16
+      },
+      {
+        "from": "んだら",
+        "to": "ぬ",
+        "reason_id": 7
+      },
+      {
+        "from": "んだら",
+        "to": "ぶ",
+        "reason_id": 7
+      },
+      {
+        "from": "んだら",
+        "to": "む",
+        "reason_id": 7
+      },
+      {
+        "from": "んだり",
+        "to": "ぬ",
+        "reason_id": 8
+      },
+      {
+        "from": "んだり",
+        "to": "ぶ",
+        "reason_id": 8
+      },
+      {
+        "from": "んだり",
+        "to": "む",
+        "reason_id": 8
+      }
+    ],
+    "2": [
+      {
+        "from": "いた",
+        "to": "く",
+        "reason_id": 14
+      },
+      {
+        "from": "いだ",
+        "to": "ぐ",
+        "reason_id": 14
+      },
+      {
+        "from": "いて",
+        "to": "く",
+        "reason_id": 21
+      },
+      {
+        "from": "いで",
+        "to": "ぐ",
+        "reason_id": 21
+      },
+      {
+        "from": "えば",
+        "to": "う",
+        "reason_id": 17
+      },
+      {
+        "from": "える",
+        "to": "う",
+        "reason_id": 19
+      },
+      {
+        "from": "おう",
+        "to": "う",
+        "reason_id": 18
+      },
+      {
+        "from": "かず",
+        "to": "く",
+        "reason_id": 22
+      },
+      {
+        "from": "がず",
+        "to": "ぐ",
+        "reason_id": 22
+      },
+      {
+        "from": "きた",
+        "to": "くる",
+        "reason_id": 14
+      },
+      {
+        "from": "きて",
+        "to": "くる",
+        "reason_id": 21
+      },
+      {
+        "from": "くて",
+        "to": "い",
+        "reason_id": 21
+      },
+      {
+        "from": "けば",
+        "to": "く",
+        "reason_id": 17
+      },
+      {
+        "from": "げば",
+        "to": "ぐ",
+        "reason_id": 17
+      },
+      {
+        "from": "ける",
+        "to": "く",
+        "reason_id": 19
+      },
+      {
+        "from": "げる",
+        "to": "ぐ",
+        "reason_id": 19
+      },
+      {
+        "from": "こい",
+        "to": "くる",
+        "reason_id": 23
+      },
+      {
+        "from": "こう",
+        "to": "く",
+        "reason_id": 18
+      },
+      {
+        "from": "ごう",
+        "to": "ぐ",
+        "reason_id": 18
+      },
+      {
+        "from": "こず",
+        "to": "くる",
+        "reason_id": 22
+      },
+      {
+        "from": "さず",
+        "to": "す",
+        "reason_id": 22
+      },
+      {
+        "from": "した",
+        "to": "す",
+        "reason_id": 14
+      },
+      {
+        "from": "した",
+        "to": "する",
+        "reason_id": 14
+      },
+      {
+        "from": "して",
+        "to": "す",
+        "reason_id": 21
+      },
+      {
+        "from": "して",
+        "to": "する",
+        "reason_id": 21
+      },
+      {
+        "from": "しろ",
+        "to": "する",
+        "reason_id": 23
+      },
+      {
+        "from": "せず",
+        "to": "する",
+        "reason_id": 22
+      },
+      {
+        "from": "せば",
+        "to": "す",
+        "reason_id": 17
+      },
+      {
+        "from": "せよ",
+        "to": "する",
+        "reason_id": 23
+      },
+      {
+        "from": "せる",
+        "to": "す",
+        "reason_id": 19
+      },
+      {
+        "from": "そう",
+        "to": "い",
+        "reason_id": 11
+      },
+      {
+        "from": "そう",
+        "to": "す",
+        "reason_id": 18
+      },
+      {
+        "from": "そう",
+        "to": "る",
+        "reason_id": 11
+      },
+      {
+        "from": "たい",
+        "to": "る",
+        "reason_id": 12
+      },
+      {
+        "from": "たず",
+        "to": "つ",
+        "reason_id": 22
+      },
+      {
+        "from": "たら",
+        "to": "る",
+        "reason_id": 7
+      },
+      {
+        "from": "たり",
+        "to": "る",
+        "reason_id": 8
+      },
+      {
+        "from": "った",
+        "to": "う",
+        "reason_id": 14
+      },
+      {
+        "from": "った",
+        "to": "く",
+        "reason_id": 14
+      },
+      {
+        "from": "った",
+        "to": "つ",
+        "reason_id": 14
+      },
+      {
+        "from": "った",
+        "to": "る",
+        "reason_id": 14
+      },
+      {
+        "from": "って",
+        "to": "う",
+        "reason_id": 21
+      },
+      {
+        "from": "って",
+        "to": "く",
+        "reason_id": 21
+      },
+      {
+        "from": "って",
+        "to": "つ",
+        "reason_id": 21
+      },
+      {
+        "from": "って",
+        "to": "る",
+        "reason_id": 21
+      },
+      {
+        "from": "てば",
+        "to": "つ",
+        "reason_id": 17
+      },
+      {
+        "from": "てる",
+        "to": "つ",
+        "reason_id": 19
+      },
+      {
+        "from": "とう",
+        "to": "つ",
+        "reason_id": 18
+      },
+      {
+        "from": "ない",
+        "to": "る",
+        "reason_id": 15
+      },
+      {
+        "from": "なず",
+        "to": "ぬ",
+        "reason_id": 22
+      },
+      {
+        "from": "ねば",
+        "to": "ぬ",
+        "reason_id": 17
+      },
+      {
+        "from": "ねる",
+        "to": "ぬ",
+        "reason_id": 19
+      },
+      {
+        "from": "のう",
+        "to": "ぬ",
+        "reason_id": 18
+      },
+      {
+        "from": "ばず",
+        "to": "ぶ",
+        "reason_id": 22
+      },
+      {
+        "from": "べば",
+        "to": "ぶ",
+        "reason_id": 17
+      },
+      {
+        "from": "べる",
+        "to": "ぶ",
+        "reason_id": 19
+      },
+      {
+        "from": "ぼう",
+        "to": "ぶ",
+        "reason_id": 18
+      },
+      {
+        "from": "ます",
+        "to": "る",
+        "reason_id": 13
+      },
+      {
+        "from": "まず",
+        "to": "む",
+        "reason_id": 22
+      },
+      {
+        "from": "めば",
+        "to": "む",
+        "reason_id": 17
+      },
+      {
+        "from": "める",
+        "to": "む",
+        "reason_id": 19
+      },
+      {
+        "from": "もう",
+        "to": "む",
+        "reason_id": 18
+      },
+      {
+        "from": "よう",
+        "to": "る",
+        "reason_id": 18
+      },
+      {
+        "from": "らず",
+        "to": "る",
+        "reason_id": 22
+      },
+      {
+        "from": "れば",
+        "to": "る",
+        "reason_id": 17
+      },
+      {
+        "from": "れる",
+        "to": "る",
+        "reason_id": 19
+      },
+      {
+        "from": "ろう",
+        "to": "る",
+        "reason_id": 18
+      },
+      {
+        "from": "わず",
+        "to": "う",
+        "reason_id": 22
+      },
+      {
+        "from": "んだ",
+        "to": "ぬ",
+        "reason_id": 14
+      },
+      {
+        "from": "んだ",
+        "to": "ぶ",
+        "reason_id": 14
+      },
+      {
+        "from": "んだ",
+        "to": "む",
+        "reason_id": 14
+      },
+      {
+        "from": "んで",
+        "to": "ぬ",
+        "reason_id": 21
+      },
+      {
+        "from": "んで",
+        "to": "ぶ",
+        "reason_id": 21
+      },
+      {
+        "from": "んで",
+        "to": "む",
+        "reason_id": 21
+      }
+    ],
+    "1": [
+      {
+        "from": "い",
+        "to": "いる",
+        "reason_id": 24
+      },
+      {
+        "from": "い",
+        "to": "う",
+        "reason_id": 24
+      },
+      {
+        "from": "い",
+        "to": "る",
+        "reason_id": 23
+      },
+      {
+        "from": "え",
+        "to": "う",
+        "reason_id": 23
+      },
+      {
+        "from": "え",
+        "to": "える",
+        "reason_id": 24
+      },
+      {
+        "from": "き",
+        "to": "きる",
+        "reason_id": 24
+      },
+      {
+        "from": "き",
+        "to": "く",
+        "reason_id": 24
+      },
+      {
+        "from": "ぎ",
+        "to": "ぎる",
+        "reason_id": 24
+      },
+      {
+        "from": "ぎ",
+        "to": "ぐ",
+        "reason_id": 24
+      },
+      {
+        "from": "く",
+        "to": "い",
+        "reason_id": 25
+      },
+      {
+        "from": "け",
+        "to": "く",
+        "reason_id": 23
+      },
+      {
+        "from": "け",
+        "to": "ける",
+        "reason_id": 24
+      },
+      {
+        "from": "げ",
+        "to": "ぐ",
+        "reason_id": 23
+      },
+      {
+        "from": "げ",
+        "to": "げる",
+        "reason_id": 24
+      },
+      {
+        "from": "さ",
+        "to": "い",
+        "reason_id": 26
+      },
+      {
+        "from": "し",
+        "to": "す",
+        "reason_id": 24
+      },
+      {
+        "from": "じ",
+        "to": "じる",
+        "reason_id": 24
+      },
+      {
+        "from": "ず",
+        "to": "る",
+        "reason_id": 22
+      },
+      {
+        "from": "せ",
+        "to": "す",
+        "reason_id": 23
+      },
+      {
+        "from": "せ",
+        "to": "せる",
+        "reason_id": 24
+      },
+      {
+        "from": "ぜ",
+        "to": "ぜる",
+        "reason_id": 24
+      },
+      {
+        "from": "た",
+        "to": "る",
+        "reason_id": 14
+      },
+      {
+        "from": "ち",
+        "to": "ちる",
+        "reason_id": 24
+      },
+      {
+        "from": "ち",
+        "to": "つ",
+        "reason_id": 24
+      },
+      {
+        "from": "て",
+        "to": "つ",
+        "reason_id": 23
+      },
+      {
+        "from": "て",
+        "to": "てる",
+        "reason_id": 24
+      },
+      {
+        "from": "て",
+        "to": "る",
+        "reason_id": 21
+      },
+      {
+        "from": "で",
+        "to": "でる",
+        "reason_id": 24
+      },
+      {
+        "from": "な",
+        "to": "",
+        "reason_id": 27
+      },
+      {
+        "from": "に",
+        "to": "にる",
+        "reason_id": 24
+      },
+      {
+        "from": "に",
+        "to": "ぬ",
+        "reason_id": 24
+      },
+      {
+        "from": "ね",
+        "to": "ぬ",
+        "reason_id": 23
+      },
+      {
+        "from": "ね",
+        "to": "ねる",
+        "reason_id": 24
+      },
+      {
+        "from": "ひ",
+        "to": "ひる",
+        "reason_id": 24
+      },
+      {
+        "from": "び",
+        "to": "びる",
+        "reason_id": 24
+      },
+      {
+        "from": "び",
+        "to": "ぶ",
+        "reason_id": 24
+      },
+      {
+        "from": "へ",
+        "to": "へる",
+        "reason_id": 24
+      },
+      {
+        "from": "べ",
+        "to": "ぶ",
+        "reason_id": 23
+      },
+      {
+        "from": "べ",
+        "to": "べる",
+        "reason_id": 24
+      },
+      {
+        "from": "み",
+        "to": "みる",
+        "reason_id": 24
+      },
+      {
+        "from": "み",
+        "to": "む",
+        "reason_id": 24
+      },
+      {
+        "from": "め",
+        "to": "む",
+        "reason_id": 23
+      },
+      {
+        "from": "め",
+        "to": "める",
+        "reason_id": 24
+      },
+      {
+        "from": "よ",
+        "to": "る",
+        "reason_id": 23
+      },
+      {
+        "from": "り",
+        "to": "りる",
+        "reason_id": 24
+      },
+      {
+        "from": "り",
+        "to": "る",
+        "reason_id": 24
+      },
+      {
+        "from": "れ",
+        "to": "る",
+        "reason_id": 23
+      },
+      {
+        "from": "れ",
+        "to": "れる",
+        "reason_id": 24
+      },
+      {
+        "from": "ろ",
+        "to": "る",
+        "reason_id": 23
+      }
+    ]
+  }
+}

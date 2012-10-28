@@ -28,5 +28,6 @@ end
 
 root = File.expand_path(File.dirname(__FILE__))
 File.open(File.join(root, 'data/deinflect.json'), 'w') do |f|
-  f.write(parse(File.join(root, 'data/deinflect.dat')).to_json)
+  parsed_dat = parse(File.join(root, 'data/deinflect.dat'))
+  f.write(JSON.pretty_generate(parsed_dat))
 end
