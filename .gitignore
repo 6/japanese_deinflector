@@ -1,3 +1,5 @@
 .DS_Store
 *.gem
 test.html
+.rvmrc
+Gemfile.lock
