@@ -15,7 +15,7 @@ class JapaneseDeinflector
     end
   end
 
-  def deinflect(word)
+  def deinflect(word, iteration = 0)
     results = Set.new
 
     filter_rule_groups(@rule_groups, :max_suffix_size => word.size).each do |suffix_size, rules|
@@ -25,7 +25,16 @@ class JapaneseDeinflector
       end
     end
 
-    results.to_a
+    if iteration < 2
+      additional_results = Set.new
+      results.each do |result|
+        additional_results.merge(deinflect(result[:word], iteration + 1))
+      end
+      results.merge(additional_results)
+    end
+
+    # Sort results in descending order by weight
+    results.to_a.sort{|x, y| y[:weight] <=> x[:weight]}
   end
 
   private

@@ -74,8 +74,6 @@ describe JapaneseDeinflector do
       end
 
       it "deinflects plain negative verbs" do
-        pending "unimplemented"
-
         subject.deinflect("見なかった").first[:word].should == "見る"
         subject.deinflect("歌わなかった").first[:word].should == "歌う"
       end
@@ -127,8 +125,6 @@ describe JapaneseDeinflector do
       end
 
       it "deinflects negative verbs" do
-        pending "unimplemented"
-
         subject.deinflect("見なければ").first[:word].should == "見る"
         subject.deinflect("歌えなければ").first[:word].should == "歌う"
       end
@@ -150,8 +146,6 @@ describe JapaneseDeinflector do
       end
 
       it "deinflects polite positive verbs" do
-        pending "unimplemented"
-
         subject.deinflect("見ましたら").first[:word].should == "見る"
         subject.deinflect("歌いましたら").first[:word].should == "歌う"
       end
