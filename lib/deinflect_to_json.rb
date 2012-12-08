@@ -13,12 +13,12 @@ def parse(fpath)
     # Rules are tab-separated in the following format:
     # <from>\t<to>\t<type>\t<reason_index>
     else
-      from = parts.first
+      from_suffix = parts.first
       reason_id = parts[3].to_i
-      rules_hash[from.size] ||= []
-      rules_hash[from.size] << {
-        :from => from,
-        :to => parts[1],
+      rules_hash[from_suffix.size] ||= []
+      rules_hash[from_suffix.size] << {
+        :from_suffix => from_suffix,
+        :to_suffix => parts[1],
         :reason => reasons[reason_id],
       }
     end

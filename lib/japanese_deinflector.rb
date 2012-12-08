@@ -21,7 +21,7 @@ class JapaneseDeinflector
     filter_rule_groups(@rule_groups, :max_suffix_size => word.size).each do |suffix_size, rules|
       from_suffix = word[-suffix_size..-1]
       filter_rules(rules, :from_suffix => from_suffix).each do |rule|
-        results << result_hash(word, from_suffix, rule[:to], rule[:reason])
+        results << result_hash(word, from_suffix, rule[:to_suffix], rule[:reason])
       end
     end
 
@@ -50,7 +50,7 @@ class JapaneseDeinflector
 
   def filter_rules(rules, filters = {})
     rules.clone.delete_if.each do |rule|
-      rule[:from] != filters[:from_suffix]  if filters[:from_suffix]
+      rule[:from_suffix] != filters[:from_suffix]  if filters[:from_suffix]
     end
   end
 end

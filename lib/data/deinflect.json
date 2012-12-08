@@ -1,1552 +1,1552 @@
 {
   "9": [
     {
-      "from": "くありませんでした",
-      "to": "い",
+      "from_suffix": "くありませんでした",
+      "to_suffix": "い",
       "reason": "polite past negative"
     }
   ],
   "7": [
     {
-      "from": "いませんでした",
-      "to": "う",
+      "from_suffix": "いませんでした",
+      "to_suffix": "う",
       "reason": "polite past negative"
     },
     {
-      "from": "きませんでした",
-      "to": "く",
+      "from_suffix": "きませんでした",
+      "to_suffix": "く",
       "reason": "polite past negative"
     },
     {
-      "from": "きませんでした",
-      "to": "くる",
+      "from_suffix": "きませんでした",
+      "to_suffix": "くる",
       "reason": "polite past negative"
     },
     {
-      "from": "ぎませんでした",
-      "to": "ぐ",
+      "from_suffix": "ぎませんでした",
+      "to_suffix": "ぐ",
       "reason": "polite past negative"
     },
     {
-      "from": "しませんでした",
-      "to": "す",
+      "from_suffix": "しませんでした",
+      "to_suffix": "す",
       "reason": "polite past negative"
     },
     {
-      "from": "しませんでした",
-      "to": "する",
+      "from_suffix": "しませんでした",
+      "to_suffix": "する",
       "reason": "polite past negative"
     },
     {
-      "from": "ちませんでした",
-      "to": "つ",
+      "from_suffix": "ちませんでした",
+      "to_suffix": "つ",
       "reason": "polite past negative"
     },
     {
-      "from": "にませんでした",
-      "to": "ぬ",
+      "from_suffix": "にませんでした",
+      "to_suffix": "ぬ",
       "reason": "polite past negative"
     },
     {
-      "from": "びませんでした",
-      "to": "ぶ",
+      "from_suffix": "びませんでした",
+      "to_suffix": "ぶ",
       "reason": "polite past negative"
     },
     {
-      "from": "みませんでした",
-      "to": "む",
+      "from_suffix": "みませんでした",
+      "to_suffix": "む",
       "reason": "polite past negative"
     },
     {
-      "from": "りませんでした",
-      "to": "る",
+      "from_suffix": "りませんでした",
+      "to_suffix": "る",
       "reason": "polite past negative"
     }
   ],
   "6": [
     {
-      "from": "くありません",
-      "to": "い",
+      "from_suffix": "くありません",
+      "to_suffix": "い",
       "reason": "polite negative"
     },
     {
-      "from": "ませんでした",
-      "to": "る",
+      "from_suffix": "ませんでした",
+      "to_suffix": "る",
       "reason": "polite past negative"
     }
   ],
   "5": [
     {
-      "from": "いましょう",
-      "to": "う",
+      "from_suffix": "いましょう",
+      "to_suffix": "う",
       "reason": "polite volitional"
     },
     {
-      "from": "きましょう",
-      "to": "く",
+      "from_suffix": "きましょう",
+      "to_suffix": "く",
       "reason": "polite volitional"
     },
     {
-      "from": "きましょう",
-      "to": "くる",
+      "from_suffix": "きましょう",
+      "to_suffix": "くる",
       "reason": "polite volitional"
     },
     {
-      "from": "ぎましょう",
-      "to": "ぐ",
+      "from_suffix": "ぎましょう",
+      "to_suffix": "ぐ",
       "reason": "polite volitional"
     },
     {
-      "from": "しましょう",
-      "to": "す",
+      "from_suffix": "しましょう",
+      "to_suffix": "す",
       "reason": "polite volitional"
     },
     {
-      "from": "しましょう",
-      "to": "する",
+      "from_suffix": "しましょう",
+      "to_suffix": "する",
       "reason": "polite volitional"
     },
     {
-      "from": "ちましょう",
-      "to": "つ",
+      "from_suffix": "ちましょう",
+      "to_suffix": "つ",
       "reason": "polite volitional"
     },
     {
-      "from": "にましょう",
-      "to": "ぬ",
+      "from_suffix": "にましょう",
+      "to_suffix": "ぬ",
       "reason": "polite volitional"
     },
     {
-      "from": "びましょう",
-      "to": "ぶ",
+      "from_suffix": "びましょう",
+      "to_suffix": "ぶ",
       "reason": "polite volitional"
     },
     {
-      "from": "みましょう",
-      "to": "む",
+      "from_suffix": "みましょう",
+      "to_suffix": "む",
       "reason": "polite volitional"
     },
     {
-      "from": "りましょう",
-      "to": "る",
+      "from_suffix": "りましょう",
+      "to_suffix": "る",
       "reason": "polite volitional"
     }
   ],
   "4": [
     {
-      "from": "いじゃう",
-      "to": "ぐ",
+      "from_suffix": "いじゃう",
+      "to_suffix": "ぐ",
       "reason": "-chau"
     },
     {
-      "from": "いすぎる",
-      "to": "う",
+      "from_suffix": "いすぎる",
+      "to_suffix": "う",
       "reason": "-sugiru"
     },
     {
-      "from": "いちゃう",
-      "to": "く",
+      "from_suffix": "いちゃう",
+      "to_suffix": "く",
       "reason": "-chau"
     },
     {
-      "from": "いなさい",
-      "to": "う",
+      "from_suffix": "いなさい",
+      "to_suffix": "う",
       "reason": "-nasai"
     },
     {
-      "from": "いました",
-      "to": "う",
+      "from_suffix": "いました",
+      "to_suffix": "う",
       "reason": "polite past"
     },
     {
-      "from": "いません",
-      "to": "う",
+      "from_suffix": "いません",
+      "to_suffix": "う",
       "reason": "polite negative"
     },
     {
-      "from": "かったら",
-      "to": "い",
+      "from_suffix": "かったら",
+      "to_suffix": "い",
       "reason": "-tara"
     },
     {
-      "from": "かったり",
-      "to": "い",
+      "from_suffix": "かったり",
+      "to_suffix": "い",
       "reason": "-tari"
     },
     {
-      "from": "きすぎる",
-      "to": "く",
+      "from_suffix": "きすぎる",
+      "to_suffix": "く",
       "reason": "-sugiru"
     },
     {
-      "from": "きすぎる",
-      "to": "くる",
+      "from_suffix": "きすぎる",
+      "to_suffix": "くる",
       "reason": "-sugiru"
     },
     {
-      "from": "ぎすぎる",
-      "to": "ぐ",
+      "from_suffix": "ぎすぎる",
+      "to_suffix": "ぐ",
       "reason": "-sugiru"
     },
     {
-      "from": "きちゃう",
-      "to": "くる",
+      "from_suffix": "きちゃう",
+      "to_suffix": "くる",
       "reason": "-chau"
     },
     {
-      "from": "きなさい",
-      "to": "く",
+      "from_suffix": "きなさい",
+      "to_suffix": "く",
       "reason": "-nasai"
     },
     {
-      "from": "きなさい",
-      "to": "くる",
+      "from_suffix": "きなさい",
+      "to_suffix": "くる",
       "reason": "-nasai"
     },
     {
-      "from": "ぎなさい",
-      "to": "ぐ",
+      "from_suffix": "ぎなさい",
+      "to_suffix": "ぐ",
       "reason": "-nasai"
     },
     {
-      "from": "きました",
-      "to": "く",
+      "from_suffix": "きました",
+      "to_suffix": "く",
       "reason": "polite past"
     },
     {
-      "from": "きました",
-      "to": "くる",
+      "from_suffix": "きました",
+      "to_suffix": "くる",
       "reason": "polite past"
     },
     {
-      "from": "ぎました",
-      "to": "ぐ",
+      "from_suffix": "ぎました",
+      "to_suffix": "ぐ",
       "reason": "polite past"
     },
     {
-      "from": "きません",
-      "to": "く",
+      "from_suffix": "きません",
+      "to_suffix": "く",
       "reason": "polite negative"
     },
     {
-      "from": "きません",
-      "to": "くる",
+      "from_suffix": "きません",
+      "to_suffix": "くる",
       "reason": "polite negative"
     },
     {
-      "from": "ぎません",
-      "to": "ぐ",
+      "from_suffix": "ぎません",
+      "to_suffix": "ぐ",
       "reason": "polite negative"
     },
     {
-      "from": "こさせる",
-      "to": "くる",
+      "from_suffix": "こさせる",
+      "to_suffix": "くる",
       "reason": "causative"
     },
     {
-      "from": "こられる",
-      "to": "くる",
+      "from_suffix": "こられる",
+      "to_suffix": "くる",
       "reason": "potential or passive"
     },
     {
-      "from": "しすぎる",
-      "to": "す",
+      "from_suffix": "しすぎる",
+      "to_suffix": "す",
       "reason": "-sugiru"
     },
     {
-      "from": "しすぎる",
-      "to": "する",
+      "from_suffix": "しすぎる",
+      "to_suffix": "する",
       "reason": "-sugiru"
     },
     {
-      "from": "しちゃう",
-      "to": "す",
+      "from_suffix": "しちゃう",
+      "to_suffix": "す",
       "reason": "-chau"
     },
     {
-      "from": "しちゃう",
-      "to": "する",
+      "from_suffix": "しちゃう",
+      "to_suffix": "する",
       "reason": "-chau"
     },
     {
-      "from": "しなさい",
-      "to": "す",
+      "from_suffix": "しなさい",
+      "to_suffix": "す",
       "reason": "-nasai"
     },
     {
-      "from": "しなさい",
-      "to": "する",
+      "from_suffix": "しなさい",
+      "to_suffix": "する",
       "reason": "-nasai"
     },
     {
-      "from": "しました",
-      "to": "す",
+      "from_suffix": "しました",
+      "to_suffix": "す",
       "reason": "polite past"
     },
     {
-      "from": "しました",
-      "to": "する",
+      "from_suffix": "しました",
+      "to_suffix": "する",
       "reason": "polite past"
     },
     {
-      "from": "しません",
-      "to": "す",
+      "from_suffix": "しません",
+      "to_suffix": "す",
       "reason": "polite negative"
     },
     {
-      "from": "しません",
-      "to": "する",
+      "from_suffix": "しません",
+      "to_suffix": "する",
       "reason": "polite negative"
     },
     {
-      "from": "ちすぎる",
-      "to": "つ",
+      "from_suffix": "ちすぎる",
+      "to_suffix": "つ",
       "reason": "-sugiru"
     },
     {
-      "from": "ちなさい",
-      "to": "つ",
+      "from_suffix": "ちなさい",
+      "to_suffix": "つ",
       "reason": "-nasai"
     },
     {
-      "from": "ちました",
-      "to": "つ",
+      "from_suffix": "ちました",
+      "to_suffix": "つ",
       "reason": "polite past"
     },
     {
-      "from": "ちません",
-      "to": "つ",
+      "from_suffix": "ちません",
+      "to_suffix": "つ",
       "reason": "polite negative"
     },
     {
-      "from": "っちゃう",
-      "to": "う",
+      "from_suffix": "っちゃう",
+      "to_suffix": "う",
       "reason": "-chau"
     },
     {
-      "from": "っちゃう",
-      "to": "く",
+      "from_suffix": "っちゃう",
+      "to_suffix": "く",
       "reason": "-chau"
     },
     {
-      "from": "っちゃう",
-      "to": "つ",
+      "from_suffix": "っちゃう",
+      "to_suffix": "つ",
       "reason": "-chau"
     },
     {
-      "from": "っちゃう",
-      "to": "る",
+      "from_suffix": "っちゃう",
+      "to_suffix": "る",
       "reason": "-chau"
     },
     {
-      "from": "にすぎる",
-      "to": "ぬ",
+      "from_suffix": "にすぎる",
+      "to_suffix": "ぬ",
       "reason": "-sugiru"
     },
     {
-      "from": "になさい",
-      "to": "ぬ",
+      "from_suffix": "になさい",
+      "to_suffix": "ぬ",
       "reason": "-nasai"
     },
     {
-      "from": "にました",
-      "to": "ぬ",
+      "from_suffix": "にました",
+      "to_suffix": "ぬ",
       "reason": "polite past"
     },
     {
-      "from": "にません",
-      "to": "ぬ",
+      "from_suffix": "にません",
+      "to_suffix": "ぬ",
       "reason": "polite negative"
     },
     {
-      "from": "びすぎる",
-      "to": "ぶ",
+      "from_suffix": "びすぎる",
+      "to_suffix": "ぶ",
       "reason": "-sugiru"
     },
     {
-      "from": "びなさい",
-      "to": "ぶ",
+      "from_suffix": "びなさい",
+      "to_suffix": "ぶ",
       "reason": "-nasai"
     },
     {
-      "from": "びました",
-      "to": "ぶ",
+      "from_suffix": "びました",
+      "to_suffix": "ぶ",
       "reason": "polite past"
     },
     {
-      "from": "びません",
-      "to": "ぶ",
+      "from_suffix": "びません",
+      "to_suffix": "ぶ",
       "reason": "polite negative"
     },
     {
-      "from": "ましょう",
-      "to": "る",
+      "from_suffix": "ましょう",
+      "to_suffix": "る",
       "reason": "polite volitional"
     },
     {
-      "from": "みすぎる",
-      "to": "む",
+      "from_suffix": "みすぎる",
+      "to_suffix": "む",
       "reason": "-sugiru"
     },
     {
-      "from": "みなさい",
-      "to": "む",
+      "from_suffix": "みなさい",
+      "to_suffix": "む",
       "reason": "-nasai"
     },
     {
-      "from": "みました",
-      "to": "む",
+      "from_suffix": "みました",
+      "to_suffix": "む",
       "reason": "polite past"
     },
     {
-      "from": "みません",
-      "to": "む",
+      "from_suffix": "みません",
+      "to_suffix": "む",
       "reason": "polite negative"
     },
     {
-      "from": "りすぎる",
-      "to": "る",
+      "from_suffix": "りすぎる",
+      "to_suffix": "る",
       "reason": "-sugiru"
     },
     {
-      "from": "りなさい",
-      "to": "る",
+      "from_suffix": "りなさい",
+      "to_suffix": "る",
       "reason": "-nasai"
     },
     {
-      "from": "りました",
-      "to": "る",
+      "from_suffix": "りました",
+      "to_suffix": "る",
       "reason": "polite past"
     },
     {
-      "from": "りません",
-      "to": "る",
+      "from_suffix": "りません",
+      "to_suffix": "る",
       "reason": "polite negative"
     },
     {
-      "from": "んじゃう",
-      "to": "ぬ",
+      "from_suffix": "んじゃう",
+      "to_suffix": "ぬ",
       "reason": "-chau"
     },
     {
-      "from": "んじゃう",
-      "to": "ぶ",
+      "from_suffix": "んじゃう",
+      "to_suffix": "ぶ",
       "reason": "-chau"
     },
     {
-      "from": "んじゃう",
-      "to": "む",
+      "from_suffix": "んじゃう",
+      "to_suffix": "む",
       "reason": "-chau"
     }
   ],
   "3": [
     {
-      "from": "いそう",
-      "to": "う",
+      "from_suffix": "いそう",
+      "to_suffix": "う",
       "reason": "-sou"
     },
     {
-      "from": "いたい",
-      "to": "う",
+      "from_suffix": "いたい",
+      "to_suffix": "う",
       "reason": "-tai"
     },
     {
-      "from": "いたら",
-      "to": "く",
+      "from_suffix": "いたら",
+      "to_suffix": "く",
       "reason": "-tara"
     },
     {
-      "from": "いだら",
-      "to": "ぐ",
+      "from_suffix": "いだら",
+      "to_suffix": "ぐ",
       "reason": "-tara"
     },
     {
-      "from": "いたり",
-      "to": "く",
+      "from_suffix": "いたり",
+      "to_suffix": "く",
       "reason": "-tari"
     },
     {
-      "from": "いだり",
-      "to": "ぐ",
+      "from_suffix": "いだり",
+      "to_suffix": "ぐ",
       "reason": "-tari"
     },
     {
-      "from": "います",
-      "to": "う",
+      "from_suffix": "います",
+      "to_suffix": "う",
       "reason": "polite"
     },
     {
-      "from": "かせる",
-      "to": "く",
+      "from_suffix": "かせる",
+      "to_suffix": "く",
       "reason": "causative"
     },
     {
-      "from": "がせる",
-      "to": "ぐ",
+      "from_suffix": "がせる",
+      "to_suffix": "ぐ",
       "reason": "causative"
     },
     {
-      "from": "かった",
-      "to": "い",
+      "from_suffix": "かった",
+      "to_suffix": "い",
       "reason": "past"
     },
     {
-      "from": "かない",
-      "to": "く",
+      "from_suffix": "かない",
+      "to_suffix": "く",
       "reason": "negative"
     },
     {
-      "from": "がない",
-      "to": "ぐ",
+      "from_suffix": "がない",
+      "to_suffix": "ぐ",
       "reason": "negative"
     },
     {
-      "from": "かれる",
-      "to": "く",
+      "from_suffix": "かれる",
+      "to_suffix": "く",
       "reason": "passive"
     },
     {
-      "from": "がれる",
-      "to": "ぐ",
+      "from_suffix": "がれる",
+      "to_suffix": "ぐ",
       "reason": "passive"
     },
     {
-      "from": "きそう",
-      "to": "く",
+      "from_suffix": "きそう",
+      "to_suffix": "く",
       "reason": "-sou"
     },
     {
-      "from": "きそう",
-      "to": "くる",
+      "from_suffix": "きそう",
+      "to_suffix": "くる",
       "reason": "-sou"
     },
     {
-      "from": "ぎそう",
-      "to": "ぐ",
+      "from_suffix": "ぎそう",
+      "to_suffix": "ぐ",
       "reason": "-sou"
     },
     {
-      "from": "きたい",
-      "to": "く",
+      "from_suffix": "きたい",
+      "to_suffix": "く",
       "reason": "-tai"
     },
     {
-      "from": "きたい",
-      "to": "くる",
+      "from_suffix": "きたい",
+      "to_suffix": "くる",
       "reason": "-tai"
     },
     {
-      "from": "ぎたい",
-      "to": "ぐ",
+      "from_suffix": "ぎたい",
+      "to_suffix": "ぐ",
       "reason": "-tai"
     },
     {
-      "from": "きたら",
-      "to": "くる",
+      "from_suffix": "きたら",
+      "to_suffix": "くる",
       "reason": "-tara"
     },
     {
-      "from": "きたり",
-      "to": "くる",
+      "from_suffix": "きたり",
+      "to_suffix": "くる",
       "reason": "-tari"
     },
     {
-      "from": "きます",
-      "to": "く",
+      "from_suffix": "きます",
+      "to_suffix": "く",
       "reason": "polite"
     },
     {
-      "from": "きます",
-      "to": "くる",
+      "from_suffix": "きます",
+      "to_suffix": "くる",
       "reason": "polite"
     },
     {
-      "from": "ぎます",
-      "to": "ぐ",
+      "from_suffix": "ぎます",
+      "to_suffix": "ぐ",
       "reason": "polite"
     },
     {
-      "from": "くない",
-      "to": "い",
+      "from_suffix": "くない",
+      "to_suffix": "い",
       "reason": "negative"
     },
     {
-      "from": "ければ",
-      "to": "い",
+      "from_suffix": "ければ",
+      "to_suffix": "い",
       "reason": "-ba"
     },
     {
-      "from": "こない",
-      "to": "くる",
+      "from_suffix": "こない",
+      "to_suffix": "くる",
       "reason": "negative"
     },
     {
-      "from": "こよう",
-      "to": "くる",
+      "from_suffix": "こよう",
+      "to_suffix": "くる",
       "reason": "volitional"
     },
     {
-      "from": "これる",
-      "to": "くる",
+      "from_suffix": "これる",
+      "to_suffix": "くる",
       "reason": "potential"
     },
     {
-      "from": "させる",
-      "to": "する",
+      "from_suffix": "させる",
+      "to_suffix": "する",
       "reason": "causative"
     },
     {
-      "from": "させる",
-      "to": "る",
+      "from_suffix": "させる",
+      "to_suffix": "る",
       "reason": "causative"
     },
     {
-      "from": "さない",
-      "to": "す",
+      "from_suffix": "さない",
+      "to_suffix": "す",
       "reason": "negative"
     },
     {
-      "from": "される",
-      "to": "す",
+      "from_suffix": "される",
+      "to_suffix": "す",
       "reason": "passive or causative"
     },
     {
-      "from": "される",
-      "to": "する",
+      "from_suffix": "される",
+      "to_suffix": "する",
       "reason": "passive"
     },
     {
-      "from": "しそう",
-      "to": "す",
+      "from_suffix": "しそう",
+      "to_suffix": "す",
       "reason": "-sou"
     },
     {
-      "from": "しそう",
-      "to": "する",
+      "from_suffix": "しそう",
+      "to_suffix": "する",
       "reason": "-sou"
     },
     {
-      "from": "したい",
-      "to": "す",
+      "from_suffix": "したい",
+      "to_suffix": "す",
       "reason": "-tai"
     },
     {
-      "from": "したい",
-      "to": "する",
+      "from_suffix": "したい",
+      "to_suffix": "する",
       "reason": "-tai"
     },
     {
-      "from": "したら",
-      "to": "す",
+      "from_suffix": "したら",
+      "to_suffix": "す",
       "reason": "-tara"
     },
     {
-      "from": "したら",
-      "to": "する",
+      "from_suffix": "したら",
+      "to_suffix": "する",
       "reason": "-tara"
     },
     {
-      "from": "したり",
-      "to": "す",
+      "from_suffix": "したり",
+      "to_suffix": "す",
       "reason": "-tari"
     },
     {
-      "from": "したり",
-      "to": "する",
+      "from_suffix": "したり",
+      "to_suffix": "する",
       "reason": "-tari"
     },
     {
-      "from": "しない",
-      "to": "する",
+      "from_suffix": "しない",
+      "to_suffix": "する",
       "reason": "negative"
     },
     {
-      "from": "します",
-      "to": "す",
+      "from_suffix": "します",
+      "to_suffix": "す",
       "reason": "polite"
     },
     {
-      "from": "します",
-      "to": "する",
+      "from_suffix": "します",
+      "to_suffix": "する",
       "reason": "polite"
     },
     {
-      "from": "しよう",
-      "to": "する",
+      "from_suffix": "しよう",
+      "to_suffix": "する",
       "reason": "volitional"
     },
     {
-      "from": "すぎる",
-      "to": "い",
+      "from_suffix": "すぎる",
+      "to_suffix": "い",
       "reason": "-sugiru"
     },
     {
-      "from": "すぎる",
-      "to": "る",
+      "from_suffix": "すぎる",
+      "to_suffix": "る",
       "reason": "-sugiru"
     },
     {
-      "from": "たせる",
-      "to": "つ",
+      "from_suffix": "たせる",
+      "to_suffix": "つ",
       "reason": "causative"
     },
     {
-      "from": "たない",
-      "to": "つ",
+      "from_suffix": "たない",
+      "to_suffix": "つ",
       "reason": "negative"
     },
     {
-      "from": "たれる",
-      "to": "つ",
+      "from_suffix": "たれる",
+      "to_suffix": "つ",
       "reason": "passive"
     },
     {
-      "from": "ちそう",
-      "to": "つ",
+      "from_suffix": "ちそう",
+      "to_suffix": "つ",
       "reason": "-sou"
     },
     {
-      "from": "ちたい",
-      "to": "つ",
+      "from_suffix": "ちたい",
+      "to_suffix": "つ",
       "reason": "-tai"
     },
     {
-      "from": "ちます",
-      "to": "つ",
+      "from_suffix": "ちます",
+      "to_suffix": "つ",
       "reason": "polite"
     },
     {
-      "from": "ちゃう",
-      "to": "る",
+      "from_suffix": "ちゃう",
+      "to_suffix": "る",
       "reason": "-chau"
     },
     {
-      "from": "ったら",
-      "to": "う",
+      "from_suffix": "ったら",
+      "to_suffix": "う",
       "reason": "-tara"
     },
     {
-      "from": "ったら",
-      "to": "つ",
+      "from_suffix": "ったら",
+      "to_suffix": "つ",
       "reason": "-tara"
     },
     {
-      "from": "ったら",
-      "to": "る",
+      "from_suffix": "ったら",
+      "to_suffix": "る",
       "reason": "-tara"
     },
     {
-      "from": "ったり",
-      "to": "う",
+      "from_suffix": "ったり",
+      "to_suffix": "う",
       "reason": "-tari"
     },
     {
-      "from": "ったり",
-      "to": "つ",
+      "from_suffix": "ったり",
+      "to_suffix": "つ",
       "reason": "-tari"
     },
     {
-      "from": "ったり",
-      "to": "る",
+      "from_suffix": "ったり",
+      "to_suffix": "る",
       "reason": "-tari"
     },
     {
-      "from": "なさい",
-      "to": "る",
+      "from_suffix": "なさい",
+      "to_suffix": "る",
       "reason": "-nasai"
     },
     {
-      "from": "なせる",
-      "to": "ぬ",
+      "from_suffix": "なせる",
+      "to_suffix": "ぬ",
       "reason": "causative"
     },
     {
-      "from": "なない",
-      "to": "ぬ",
+      "from_suffix": "なない",
+      "to_suffix": "ぬ",
       "reason": "negative"
     },
     {
-      "from": "なれる",
-      "to": "ぬ",
+      "from_suffix": "なれる",
+      "to_suffix": "ぬ",
       "reason": "passive"
     },
     {
-      "from": "にそう",
-      "to": "ぬ",
+      "from_suffix": "にそう",
+      "to_suffix": "ぬ",
       "reason": "-sou"
     },
     {
-      "from": "にたい",
-      "to": "ぬ",
+      "from_suffix": "にたい",
+      "to_suffix": "ぬ",
       "reason": "-tai"
     },
     {
-      "from": "にます",
-      "to": "ぬ",
+      "from_suffix": "にます",
+      "to_suffix": "ぬ",
       "reason": "polite"
     },
     {
-      "from": "ばせる",
-      "to": "ぶ",
+      "from_suffix": "ばせる",
+      "to_suffix": "ぶ",
       "reason": "causative"
     },
     {
-      "from": "ばない",
-      "to": "ぶ",
+      "from_suffix": "ばない",
+      "to_suffix": "ぶ",
       "reason": "negative"
     },
     {
-      "from": "ばれる",
-      "to": "ぶ",
+      "from_suffix": "ばれる",
+      "to_suffix": "ぶ",
       "reason": "passive"
     },
     {
-      "from": "びそう",
-      "to": "ぶ",
+      "from_suffix": "びそう",
+      "to_suffix": "ぶ",
       "reason": "-sou"
     },
     {
-      "from": "びたい",
-      "to": "ぶ",
+      "from_suffix": "びたい",
+      "to_suffix": "ぶ",
       "reason": "-tai"
     },
     {
-      "from": "びます",
-      "to": "ぶ",
+      "from_suffix": "びます",
+      "to_suffix": "ぶ",
       "reason": "polite"
     },
     {
-      "from": "ました",
-      "to": "る",
+      "from_suffix": "ました",
+      "to_suffix": "る",
       "reason": "polite past"
     },
     {
-      "from": "ませる",
-      "to": "む",
+      "from_suffix": "ませる",
+      "to_suffix": "む",
       "reason": "causative"
     },
     {
-      "from": "ません",
-      "to": "る",
+      "from_suffix": "ません",
+      "to_suffix": "る",
       "reason": "polite negative"
     },
     {
-      "from": "まない",
-      "to": "む",
+      "from_suffix": "まない",
+      "to_suffix": "む",
       "reason": "negative"
     },
     {
-      "from": "まれる",
-      "to": "む",
+      "from_suffix": "まれる",
+      "to_suffix": "む",
       "reason": "passive"
     },
     {
-      "from": "みそう",
-      "to": "む",
+      "from_suffix": "みそう",
+      "to_suffix": "む",
       "reason": "-sou"
     },
     {
-      "from": "みたい",
-      "to": "む",
+      "from_suffix": "みたい",
+      "to_suffix": "む",
       "reason": "-tai"
     },
     {
-      "from": "みます",
-      "to": "む",
+      "from_suffix": "みます",
+      "to_suffix": "む",
       "reason": "polite"
     },
     {
-      "from": "らせる",
-      "to": "る",
+      "from_suffix": "らせる",
+      "to_suffix": "る",
       "reason": "causative"
     },
     {
-      "from": "らない",
-      "to": "る",
+      "from_suffix": "らない",
+      "to_suffix": "る",
       "reason": "negative"
     },
     {
-      "from": "られる",
-      "to": "る",
+      "from_suffix": "られる",
+      "to_suffix": "る",
       "reason": "potential or passive"
     },
     {
-      "from": "りそう",
-      "to": "る",
+      "from_suffix": "りそう",
+      "to_suffix": "る",
       "reason": "-sou"
     },
     {
-      "from": "りたい",
-      "to": "る",
+      "from_suffix": "りたい",
+      "to_suffix": "る",
       "reason": "-tai"
     },
     {
-      "from": "ります",
-      "to": "る",
+      "from_suffix": "ります",
+      "to_suffix": "る",
       "reason": "polite"
     },
     {
-      "from": "わせる",
-      "to": "う",
+      "from_suffix": "わせる",
+      "to_suffix": "う",
       "reason": "causative"
     },
     {
-      "from": "わない",
-      "to": "う",
+      "from_suffix": "わない",
+      "to_suffix": "う",
       "reason": "negative"
     },
     {
-      "from": "われる",
-      "to": "う",
+      "from_suffix": "われる",
+      "to_suffix": "う",
       "reason": "passive"
     },
     {
-      "from": "んだら",
-      "to": "ぬ",
+      "from_suffix": "んだら",
+      "to_suffix": "ぬ",
       "reason": "-tara"
     },
     {
-      "from": "んだら",
-      "to": "ぶ",
+      "from_suffix": "んだら",
+      "to_suffix": "ぶ",
       "reason": "-tara"
     },
     {
-      "from": "んだら",
-      "to": "む",
+      "from_suffix": "んだら",
+      "to_suffix": "む",
       "reason": "-tara"
     },
     {
-      "from": "んだり",
-      "to": "ぬ",
+      "from_suffix": "んだり",
+      "to_suffix": "ぬ",
       "reason": "-tari"
     },
     {
-      "from": "んだり",
-      "to": "ぶ",
+      "from_suffix": "んだり",
+      "to_suffix": "ぶ",
       "reason": "-tari"
     },
     {
-      "from": "んだり",
-      "to": "む",
+      "from_suffix": "んだり",
+      "to_suffix": "む",
       "reason": "-tari"
     }
   ],
   "2": [
     {
-      "from": "いた",
-      "to": "く",
+      "from_suffix": "いた",
+      "to_suffix": "く",
       "reason": "past"
     },
     {
-      "from": "いだ",
-      "to": "ぐ",
+      "from_suffix": "いだ",
+      "to_suffix": "ぐ",
       "reason": "past"
     },
     {
-      "from": "いて",
-      "to": "く",
+      "from_suffix": "いて",
+      "to_suffix": "く",
       "reason": "-te"
     },
     {
-      "from": "いで",
-      "to": "ぐ",
+      "from_suffix": "いで",
+      "to_suffix": "ぐ",
       "reason": "-te"
     },
     {
-      "from": "えば",
-      "to": "う",
+      "from_suffix": "えば",
+      "to_suffix": "う",
       "reason": "-ba"
     },
     {
-      "from": "える",
-      "to": "う",
+      "from_suffix": "える",
+      "to_suffix": "う",
       "reason": "potential"
     },
     {
-      "from": "おう",
-      "to": "う",
+      "from_suffix": "おう",
+      "to_suffix": "う",
       "reason": "volitional"
     },
     {
-      "from": "かず",
-      "to": "く",
+      "from_suffix": "かず",
+      "to_suffix": "く",
       "reason": "-zu"
     },
     {
-      "from": "がず",
-      "to": "ぐ",
+      "from_suffix": "がず",
+      "to_suffix": "ぐ",
       "reason": "-zu"
     },
     {
-      "from": "きた",
-      "to": "くる",
+      "from_suffix": "きた",
+      "to_suffix": "くる",
       "reason": "past"
     },
     {
-      "from": "きて",
-      "to": "くる",
+      "from_suffix": "きて",
+      "to_suffix": "くる",
       "reason": "-te"
     },
     {
-      "from": "くて",
-      "to": "い",
+      "from_suffix": "くて",
+      "to_suffix": "い",
       "reason": "-te"
     },
     {
-      "from": "けば",
-      "to": "く",
+      "from_suffix": "けば",
+      "to_suffix": "く",
       "reason": "-ba"
     },
     {
-      "from": "げば",
-      "to": "ぐ",
+      "from_suffix": "げば",
+      "to_suffix": "ぐ",
       "reason": "-ba"
     },
     {
-      "from": "ける",
-      "to": "く",
+      "from_suffix": "ける",
+      "to_suffix": "く",
       "reason": "potential"
     },
     {
-      "from": "げる",
-      "to": "ぐ",
+      "from_suffix": "げる",
+      "to_suffix": "ぐ",
       "reason": "potential"
     },
     {
-      "from": "こい",
-      "to": "くる",
+      "from_suffix": "こい",
+      "to_suffix": "くる",
       "reason": "imperative"
     },
     {
-      "from": "こう",
-      "to": "く",
+      "from_suffix": "こう",
+      "to_suffix": "く",
       "reason": "volitional"
     },
     {
-      "from": "ごう",
-      "to": "ぐ",
+      "from_suffix": "ごう",
+      "to_suffix": "ぐ",
       "reason": "volitional"
     },
     {
-      "from": "こず",
-      "to": "くる",
+      "from_suffix": "こず",
+      "to_suffix": "くる",
       "reason": "-zu"
     },
     {
-      "from": "さず",
-      "to": "す",
+      "from_suffix": "さず",
+      "to_suffix": "す",
       "reason": "-zu"
     },
     {
-      "from": "した",
-      "to": "す",
+      "from_suffix": "した",
+      "to_suffix": "す",
       "reason": "past"
     },
     {
-      "from": "した",
-      "to": "する",
+      "from_suffix": "した",
+      "to_suffix": "する",
       "reason": "past"
     },
     {
-      "from": "して",
-      "to": "す",
+      "from_suffix": "して",
+      "to_suffix": "す",
       "reason": "-te"
     },
     {
-      "from": "して",
-      "to": "する",
+      "from_suffix": "して",
+      "to_suffix": "する",
       "reason": "-te"
     },
     {
-      "from": "しろ",
-      "to": "する",
+      "from_suffix": "しろ",
+      "to_suffix": "する",
       "reason": "imperative"
     },
     {
-      "from": "せず",
-      "to": "する",
+      "from_suffix": "せず",
+      "to_suffix": "する",
       "reason": "-zu"
     },
     {
-      "from": "せば",
-      "to": "す",
+      "from_suffix": "せば",
+      "to_suffix": "す",
       "reason": "-ba"
     },
     {
-      "from": "せよ",
-      "to": "する",
+      "from_suffix": "せよ",
+      "to_suffix": "する",
       "reason": "imperative"
     },
     {
-      "from": "せる",
-      "to": "す",
+      "from_suffix": "せる",
+      "to_suffix": "す",
       "reason": "potential"
     },
     {
-      "from": "そう",
-      "to": "い",
+      "from_suffix": "そう",
+      "to_suffix": "い",
       "reason": "-sou"
     },
     {
-      "from": "そう",
-      "to": "す",
+      "from_suffix": "そう",
+      "to_suffix": "す",
       "reason": "volitional"
     },
     {
-      "from": "そう",
-      "to": "る",
+      "from_suffix": "そう",
+      "to_suffix": "る",
       "reason": "-sou"
     },
     {
-      "from": "たい",
-      "to": "る",
+      "from_suffix": "たい",
+      "to_suffix": "る",
       "reason": "-tai"
     },
     {
-      "from": "たず",
-      "to": "つ",
+      "from_suffix": "たず",
+      "to_suffix": "つ",
       "reason": "-zu"
     },
     {
-      "from": "たら",
-      "to": "る",
+      "from_suffix": "たら",
+      "to_suffix": "る",
       "reason": "-tara"
     },
     {
-      "from": "たり",
-      "to": "る",
+      "from_suffix": "たり",
+      "to_suffix": "る",
       "reason": "-tari"
     },
     {
-      "from": "った",
-      "to": "う",
+      "from_suffix": "った",
+      "to_suffix": "う",
       "reason": "past"
     },
     {
-      "from": "った",
-      "to": "く",
+      "from_suffix": "った",
+      "to_suffix": "く",
       "reason": "past"
     },
     {
-      "from": "った",
-      "to": "つ",
+      "from_suffix": "った",
+      "to_suffix": "つ",
       "reason": "past"
     },
     {
-      "from": "った",
-      "to": "る",
+      "from_suffix": "った",
+      "to_suffix": "る",
       "reason": "past"
     },
     {
-      "from": "って",
-      "to": "う",
+      "from_suffix": "って",
+      "to_suffix": "う",
       "reason": "-te"
     },
     {
-      "from": "って",
-      "to": "く",
+      "from_suffix": "って",
+      "to_suffix": "く",
       "reason": "-te"
     },
     {
-      "from": "って",
-      "to": "つ",
+      "from_suffix": "って",
+      "to_suffix": "つ",
       "reason": "-te"
     },
     {
-      "from": "って",
-      "to": "る",
+      "from_suffix": "って",
+      "to_suffix": "る",
       "reason": "-te"
     },
     {
-      "from": "てば",
-      "to": "つ",
+      "from_suffix": "てば",
+      "to_suffix": "つ",
       "reason": "-ba"
     },
     {
-      "from": "てる",
-      "to": "つ",
+      "from_suffix": "てる",
+      "to_suffix": "つ",
       "reason": "potential"
     },
     {
-      "from": "とう",
-      "to": "つ",
+      "from_suffix": "とう",
+      "to_suffix": "つ",
       "reason": "volitional"
     },
     {
-      "from": "ない",
-      "to": "る",
+      "from_suffix": "ない",
+      "to_suffix": "る",
       "reason": "negative"
     },
     {
-      "from": "なず",
-      "to": "ぬ",
+      "from_suffix": "なず",
+      "to_suffix": "ぬ",
       "reason": "-zu"
     },
     {
-      "from": "ねば",
-      "to": "ぬ",
+      "from_suffix": "ねば",
+      "to_suffix": "ぬ",
       "reason": "-ba"
     },
     {
-      "from": "ねる",
-      "to": "ぬ",
+      "from_suffix": "ねる",
+      "to_suffix": "ぬ",
       "reason": "potential"
     },
     {
-      "from": "のう",
-      "to": "ぬ",
+      "from_suffix": "のう",
+      "to_suffix": "ぬ",
       "reason": "volitional"
     },
     {
-      "from": "ばず",
-      "to": "ぶ",
+      "from_suffix": "ばず",
+      "to_suffix": "ぶ",
       "reason": "-zu"
     },
     {
-      "from": "べば",
-      "to": "ぶ",
+      "from_suffix": "べば",
+      "to_suffix": "ぶ",
       "reason": "-ba"
     },
     {
-      "from": "べる",
-      "to": "ぶ",
+      "from_suffix": "べる",
+      "to_suffix": "ぶ",
       "reason": "potential"
     },
     {
-      "from": "ぼう",
-      "to": "ぶ",
+      "from_suffix": "ぼう",
+      "to_suffix": "ぶ",
       "reason": "volitional"
     },
     {
-      "from": "ます",
-      "to": "る",
+      "from_suffix": "ます",
+      "to_suffix": "る",
       "reason": "polite"
     },
     {
-      "from": "まず",
-      "to": "む",
+      "from_suffix": "まず",
+      "to_suffix": "む",
       "reason": "-zu"
     },
     {
-      "from": "めば",
-      "to": "む",
+      "from_suffix": "めば",
+      "to_suffix": "む",
       "reason": "-ba"
     },
     {
-      "from": "める",
-      "to": "む",
+      "from_suffix": "める",
+      "to_suffix": "む",
       "reason": "potential"
     },
     {
-      "from": "もう",
-      "to": "む",
+      "from_suffix": "もう",
+      "to_suffix": "む",
       "reason": "volitional"
     },
     {
-      "from": "よう",
-      "to": "る",
+      "from_suffix": "よう",
+      "to_suffix": "る",
       "reason": "volitional"
     },
     {
-      "from": "らず",
-      "to": "る",
+      "from_suffix": "らず",
+      "to_suffix": "る",
       "reason": "-zu"
     },
     {
-      "from": "れば",
-      "to": "る",
+      "from_suffix": "れば",
+      "to_suffix": "る",
       "reason": "-ba"
     },
     {
-      "from": "れる",
-      "to": "る",
+      "from_suffix": "れる",
+      "to_suffix": "る",
       "reason": "potential"
     },
     {
-      "from": "ろう",
-      "to": "る",
+      "from_suffix": "ろう",
+      "to_suffix": "る",
       "reason": "volitional"
     },
     {
-      "from": "わず",
-      "to": "う",
+      "from_suffix": "わず",
+      "to_suffix": "う",
       "reason": "-zu"
     },
     {
-      "from": "んだ",
-      "to": "ぬ",
+      "from_suffix": "んだ",
+      "to_suffix": "ぬ",
       "reason": "past"
     },
     {
-      "from": "んだ",
-      "to": "ぶ",
+      "from_suffix": "んだ",
+      "to_suffix": "ぶ",
       "reason": "past"
     },
     {
-      "from": "んだ",
-      "to": "む",
+      "from_suffix": "んだ",
+      "to_suffix": "む",
       "reason": "past"
     },
     {
-      "from": "んで",
-      "to": "ぬ",
+      "from_suffix": "んで",
+      "to_suffix": "ぬ",
       "reason": "-te"
     },
     {
-      "from": "んで",
-      "to": "ぶ",
+      "from_suffix": "んで",
+      "to_suffix": "ぶ",
       "reason": "-te"
     },
     {
-      "from": "んで",
-      "to": "む",
+      "from_suffix": "んで",
+      "to_suffix": "む",
       "reason": "-te"
     }
   ],
   "1": [
     {
-      "from": "い",
-      "to": "いる",
+      "from_suffix": "い",
+      "to_suffix": "いる",
       "reason": "masu stem"
     },
     {
-      "from": "い",
-      "to": "う",
+      "from_suffix": "い",
+      "to_suffix": "う",
       "reason": "masu stem"
     },
     {
-      "from": "い",
-      "to": "る",
+      "from_suffix": "い",
+      "to_suffix": "る",
       "reason": "imperative"
     },
     {
-      "from": "え",
-      "to": "う",
+      "from_suffix": "え",
+      "to_suffix": "う",
       "reason": "imperative"
     },
     {
-      "from": "え",
-      "to": "える",
+      "from_suffix": "え",
+      "to_suffix": "える",
       "reason": "masu stem"
     },
     {
-      "from": "き",
-      "to": "きる",
+      "from_suffix": "き",
+      "to_suffix": "きる",
       "reason": "masu stem"
     },
     {
-      "from": "き",
-      "to": "く",
+      "from_suffix": "き",
+      "to_suffix": "く",
       "reason": "masu stem"
     },
     {
-      "from": "ぎ",
-      "to": "ぎる",
+      "from_suffix": "ぎ",
+      "to_suffix": "ぎる",
       "reason": "masu stem"
     },
     {
-      "from": "ぎ",
-      "to": "ぐ",
+      "from_suffix": "ぎ",
+      "to_suffix": "ぐ",
       "reason": "masu stem"
     },
     {
-      "from": "く",
-      "to": "い",
+      "from_suffix": "く",
+      "to_suffix": "い",
       "reason": "adv"
     },
     {
-      "from": "け",
-      "to": "く",
+      "from_suffix": "け",
+      "to_suffix": "く",
       "reason": "imperative"
     },
     {
-      "from": "け",
-      "to": "ける",
+      "from_suffix": "け",
+      "to_suffix": "ける",
       "reason": "masu stem"
     },
     {
-      "from": "げ",
-      "to": "ぐ",
+      "from_suffix": "げ",
+      "to_suffix": "ぐ",
       "reason": "imperative"
     },
     {
-      "from": "げ",
-      "to": "げる",
+      "from_suffix": "げ",
+      "to_suffix": "げる",
       "reason": "masu stem"
     },
     {
-      "from": "さ",
-      "to": "い",
+      "from_suffix": "さ",
+      "to_suffix": "い",
       "reason": "noun"
     },
     {
-      "from": "し",
-      "to": "す",
+      "from_suffix": "し",
+      "to_suffix": "す",
       "reason": "masu stem"
     },
     {
-      "from": "じ",
-      "to": "じる",
+      "from_suffix": "じ",
+      "to_suffix": "じる",
       "reason": "masu stem"
     },
     {
-      "from": "ず",
-      "to": "る",
+      "from_suffix": "ず",
+      "to_suffix": "る",
       "reason": "-zu"
     },
     {
-      "from": "せ",
-      "to": "す",
+      "from_suffix": "せ",
+      "to_suffix": "す",
       "reason": "imperative"
     },
     {
-      "from": "せ",
-      "to": "せる",
+      "from_suffix": "せ",
+      "to_suffix": "せる",
       "reason": "masu stem"
     },
     {
-      "from": "ぜ",
-      "to": "ぜる",
+      "from_suffix": "ぜ",
+      "to_suffix": "ぜる",
       "reason": "masu stem"
     },
     {
-      "from": "た",
-      "to": "る",
+      "from_suffix": "た",
+      "to_suffix": "る",
       "reason": "past"
     },
     {
-      "from": "ち",
-      "to": "ちる",
+      "from_suffix": "ち",
+      "to_suffix": "ちる",
       "reason": "masu stem"
     },
     {
-      "from": "ち",
-      "to": "つ",
+      "from_suffix": "ち",
+      "to_suffix": "つ",
       "reason": "masu stem"
     },
     {
-      "from": "て",
-      "to": "つ",
+      "from_suffix": "て",
+      "to_suffix": "つ",
       "reason": "imperative"
     },
     {
-      "from": "て",
-      "to": "てる",
+      "from_suffix": "て",
+      "to_suffix": "てる",
       "reason": "masu stem"
     },
     {
-      "from": "て",
-      "to": "る",
+      "from_suffix": "て",
+      "to_suffix": "る",
       "reason": "-te"
     },
     {
-      "from": "で",
-      "to": "でる",
+      "from_suffix": "で",
+      "to_suffix": "でる",
       "reason": "masu stem"
     },
     {
-      "from": "な",
-      "to": "",
+      "from_suffix": "な",
+      "to_suffix": "",
       "reason": "imperative negative"
     },
     {
-      "from": "に",
-      "to": "にる",
+      "from_suffix": "に",
+      "to_suffix": "にる",
       "reason": "masu stem"
     },
     {
-      "from": "に",
-      "to": "ぬ",
+      "from_suffix": "に",
+      "to_suffix": "ぬ",
       "reason": "masu stem"
     },
     {
-      "from": "ね",
-      "to": "ぬ",
+      "from_suffix": "ね",
+      "to_suffix": "ぬ",
       "reason": "imperative"
     },
     {
-      "from": "ね",
-      "to": "ねる",
+      "from_suffix": "ね",
+      "to_suffix": "ねる",
       "reason": "masu stem"
     },
     {
-      "from": "ひ",
-      "to": "ひる",
+      "from_suffix": "ひ",
+      "to_suffix": "ひる",
       "reason": "masu stem"
     },
     {
-      "from": "び",
-      "to": "びる",
+      "from_suffix": "び",
+      "to_suffix": "びる",
       "reason": "masu stem"
     },
     {
-      "from": "び",
-      "to": "ぶ",
+      "from_suffix": "び",
+      "to_suffix": "ぶ",
       "reason": "masu stem"
     },
     {
-      "from": "へ",
-      "to": "へる",
+      "from_suffix": "へ",
+      "to_suffix": "へる",
       "reason": "masu stem"
     },
     {
-      "from": "べ",
-      "to": "ぶ",
+      "from_suffix": "べ",
+      "to_suffix": "ぶ",
       "reason": "imperative"
     },
     {
-      "from": "べ",
-      "to": "べる",
+      "from_suffix": "べ",
+      "to_suffix": "べる",
       "reason": "masu stem"
     },
     {
-      "from": "み",
-      "to": "みる",
+      "from_suffix": "み",
+      "to_suffix": "みる",
       "reason": "masu stem"
     },
     {
-      "from": "み",
-      "to": "む",
+      "from_suffix": "み",
+      "to_suffix": "む",
       "reason": "masu stem"
     },
     {
-      "from": "め",
-      "to": "む",
+      "from_suffix": "め",
+      "to_suffix": "む",
       "reason": "imperative"
     },
     {
-      "from": "め",
-      "to": "める",
+      "from_suffix": "め",
+      "to_suffix": "める",
       "reason": "masu stem"
     },
     {
-      "from": "よ",
-      "to": "る",
+      "from_suffix": "よ",
+      "to_suffix": "る",
       "reason": "imperative"
     },
     {
-      "from": "り",
-      "to": "りる",
+      "from_suffix": "り",
+      "to_suffix": "りる",
       "reason": "masu stem"
     },
     {
-      "from": "り",
-      "to": "る",
+      "from_suffix": "り",
+      "to_suffix": "る",
       "reason": "masu stem"
     },
     {
-      "from": "れ",
-      "to": "る",
+      "from_suffix": "れ",
+      "to_suffix": "る",
       "reason": "imperative"
     },
     {
-      "from": "れ",
-      "to": "れる",
+      "from_suffix": "れ",
+      "to_suffix": "れる",
       "reason": "masu stem"
     },
     {
-      "from": "ろ",
-      "to": "る",
+      "from_suffix": "ろ",
+      "to_suffix": "る",
       "reason": "imperative"
     }
   ]
