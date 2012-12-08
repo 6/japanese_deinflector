@@ -7,6 +7,11 @@ describe JapaneseDeinflector do
   describe "verbs" do
     context "in present / attibutive tense" do
 
+      it "does not deinflect plain positive (non-inflected) verbs" do
+        subject.deinflect("見る").should be_empty
+        subject.deinflect("歌う").should be_empty
+      end
+
       it "deinflects polite positive verbs" do
         subject.deinflect("見ます").first[:word].should == "見る"
         subject.deinflect("歌います").first[:word].should == "歌う"
