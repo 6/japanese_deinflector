@@ -5,7 +5,7 @@ require 'japanese_deinflector/version'
 Gem::Specification.new do |s|
   s.name = 'japanese_deinflector'
   s.version = JapaneseDeinflector::VERSION
-  s.date = '2012-08-28'
+  s.date = '2012-12-07'
   s.summary = "Deinflect (unconjugate/undecline) Japanese words."
   s.description = "Deinflect (unconjugate/undecline) Japanese words."
   s.authors = ["Peter Graham"]
