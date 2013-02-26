@@ -162,4 +162,18 @@ describe JapaneseDeinflector do
       subject.deinflect("嬉しくありませんでした").first[:word].should == "嬉しい"
     end
   end
+
+  describe "strings that cannot be deinflected" do
+    it "does not raise an error" do
+      %w[lol あいうえお ★☆※].each do |string|
+        expect { subject.deinflect(string) }.not_to raise_error
+      end
+    end
+
+    it "does not deinflect them" do
+      %w[lol あいうえお ★☆※].each do |string|
+        subject.deinflect(string).should be_empty
+      end
+    end
+  end
 end
