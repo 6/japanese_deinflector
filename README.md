@@ -13,7 +13,7 @@ jd = JapaneseDeinflector.new
 jd.deinflect("嬉しくありません")
 ```
 
-This method returns an array of weighted possible deinflections, where a weight of 1 is highly likely to be the correct deinflection, and a weight of 0 is highly unlikely:
+This method returns an array of weighted possible deinflections. Weight is a float between 0 and 1, where a weight of 1 is highly likely to be the correct deinflection, and a weight of 0 is highly unlikely:
 
 ```ruby
 [
